@@ -1,0 +1,1 @@
+# How to add your ressources to [Malfrat's OSINT Map](url)

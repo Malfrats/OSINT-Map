@@ -1,0 +1,92 @@
+{
+    "name": "OSINT Map",
+    "children": [
+        {
+            "name": "Usernames",
+            "children": [
+                {
+                    "name": "\ud83d\udce6 sherlock",
+                    "url": "https://github.com/sherlock-project/sherlock",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83d\udce6 maigret",
+                    "url": "https://github.com/soxoj/maigret",
+                    "type": "url"
+                }
+            ],
+            "type": "folder"
+        },
+        {
+            "name": "Email Adresses",
+            "children": [
+                {
+                    "name": "\ud83d\udce6 holehe",
+                    "url": "https://github.com/megadose/holehe",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83d\udce6 GHunt",
+                    "url": "https://github.com/mxrch/GHunt",
+                    "type": "url"
+                }
+            ],
+            "type": "folder"
+        },
+        {
+            "name": "Leaked Database",
+            "children": [
+                {
+                    "name": "With details",
+                    "children": [
+                        {
+                            "name": "\ud83c\udf0d Leak-Lookup",
+                            "url": "https://leak-lookup.com",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d _IntelligenceX",
+                            "url": "https://intelx.io",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
+                    "name": "\ud83c\udf0d HaveIBeenPwned",
+                    "url": "https://haveibeenpwned.com",
+                    "type": "url"
+                }
+            ],
+            "type": "folder"
+        },
+        {
+            "name": "Social Medias",
+            "children": [
+                {
+                    "name": "Twitter",
+                    "children": [],
+                    "type": "folder"
+                },
+                {
+                    "name": "Instagram",
+                    "children": [
+                        {
+                            "name": "\ud83d\udce6 Toutatis",
+                            "url": "https://github.com/megadose/toutatis",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83d\udce6 Sterra",
+                            "url": "https://github.com/novitae/sterraxcyl",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                }
+            ],
+            "type": "folder"
+        }
+    ],
+    "type": "folder"
+}

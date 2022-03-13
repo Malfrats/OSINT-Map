@@ -1,0 +1,89 @@
+body {
+  background-color: #1d1d1d;
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+}
+
+#body {
+  margin: 0 auto;
+  position: relative;
+}
+
+#header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60px;
+}
+
+#header h1 {
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  margin-top: 25px;
+  font-weight: 900;
+  font-size: 40px;
+}
+
+#header .logo {
+  top: 3px;
+  left:10px;
+  position:absolute;
+  width: 70px;
+}
+
+.haut {
+  position: absolute;
+  color: rgb(179, 179, 179);
+  font-size: 12px;
+  margin: 0px;
+}
+
+.abstract {
+  left: 88px;
+  text-align: left;
+}
+
+.legend {
+  right: 23px;
+  text-align: right;
+}
+
+.notes {
+  /*text-align: center;*/
+  color:rgb(230, 230, 230)
+}
+
+.colonne {
+  width: 33%;
+  text-align: center;
+  padding: 2%;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+a {
+  color:red;
+}
+
+.node {
+  cursor: pointer;
+}
+
+.node circle {
+  cursor: pointer;
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font-size: 12px;
+  fill: rgb(255, 255, 255);
+}
+
+path.link {
+  fill: none;
+  stroke: rgb(75, 75, 75);
+  stroke-width: 1px;
+}

@@ -1,0 +1,26 @@
+{
+    "OSINT Map": {
+        "Usernames": {
+            "📦 sherlock": "https://github.com/sherlock-project/sherlock",
+            "📦 maigret": "https://github.com/soxoj/maigret"
+        },
+        "Email Adresses": {
+            "📦 holehe": "https://github.com/megadose/holehe",
+            "📦 GHunt": "https://github.com/mxrch/GHunt"
+        },
+        "Leaked Database": {
+            "With details": {
+                "🌍 Leak-Lookup": "https://leak-lookup.com",
+                "🌍 _IntelligenceX": "https://intelx.io"
+            },
+            "🌍 HaveIBeenPwned": "https://haveibeenpwned.com"
+        },
+        "Social Medias": {
+            "Twitter": {},
+            "Instagram": {
+                "📦 Toutatis": "https://github.com/megadose/toutatis",
+                "📦 Sterra": "https://github.com/novitae/sterraxcyl"
+            }
+        }
+    }
+}
