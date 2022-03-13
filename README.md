@@ -1,53 +1,22 @@
-# OSINT Map
+# 🕵️‍ Malfrat's OSINT Map
+## [🗺 Available here !](https://map.malfrats.industries)
+SCREENSHOT ED L'ABRRE UN PEU PLUS COMPLET ICI ET JE SAIS PAS ÉCRIRE BORDEL DE CHIOTTES
 
-https://map.malfrats.industries
+[**Malfrat's OSINT Map**](https://map.malfrats.industries) is **an online tree** of selected useful tools **made for OSINT** purposes,\
+made to **help you during your investigations** 👀
 
-## Notes
-OSINT map focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. Some of the sites included might require registration or offer more data for $$$, but you should be able to get at least a portion of the available information for no cost.
+_It is an up-to-date and remastered version of osintframework.com not updated anymore._
 
-This project is a fork of https://github.com/lockfale/OSINT-Framework, we forked it since links were outdated and there was no more content updates since 2 years.
+## 🏁 Legend
+ 📦 | A tool requiring to be installed
+:-: | :-:
+💵 | **A tool that has in-app purchases**
+🌍 | **An online tool, website**
 
-This map was initially created with an information security point of view. Since then, the response from other fields and disciplines has been incredible. We would love to be able to include any other OSINT resources, especially from fields outside of infosec. Please let us know about anything that might be missing!
+## 📥 Add a tool
+To add a tool to the map, follow [this guide](https://github.com/Malfrats/OSINT-Map/blob/main/ADD.md).
 
-Please visit the framework at the link below and good hunting!
-
-https://map.malfrats.industries
-
-### Legend
-(T) - Indicates a link to a tool that must be installed and run locally  
-(D) - Google Dork, for more information: <a href="https://en.wikipedia.org/wiki/Google_hacking">Google Hacking</a>  
-(R) - Requires registration  
-(M) - Indicates a URL that contains the search term and the URL itself must be edited manually  
-
-### For Update Notifications
-Follow us on Twitter: @malfratsind - https://twitter.com/malfratsind  
-Watch or star the project on Github: https://github.com/malfrats/osint-map
-
-### Suggestions, Comments, Feedback
-Feedback or new tool suggestions are extremely welcome!  Please feel free to submit a pull request or open an issue on github or reach out on Twitter.
-
-### Contribute with a GitHub Pull Request
-For new resources, please ensure that the site is available for public and free use.
-<ol start="1">
-  <li>Update the arf.json file in the format shown below. If this isn't the first entry for a folder, add a comma to the last closing brace of the previous entry.</li>
-</ol>
-
-```
-{
-  "name": "Example Name",
-  "type": "url",
-  "url": "http://example.com"
-}
-```
-
-<ol start="2">
-  <li>Submit pull request!</li>
-</ol>
-
-Thank you!
-
-## OSINT Map Website
-
-https://map.malfrats.industries
-
-Happy Hunting!
+## 📢 For Update Notifications
+Twitter -> [@malfratsind](https://twitter.com/malfratsind)\
+Discord -> [r3GMnHVx5H](https://discord.gg/r3GMnHVx5H)\
+Watch or star [the project](https://github.com/malfrats/osint-map) on Github
