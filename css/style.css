@@ -32,7 +32,7 @@ body {
   width: 70px;
 }
 
-.haut {
+.top {
   position: absolute;
   color: rgb(179, 179, 179);
   font-size: 12px;
@@ -44,9 +44,13 @@ body {
   text-align: left;
 }
 
-.legend {
+.right {
   right: 23px;
   text-align: right;
+}
+
+.legend {
+  display: inline-block
 }
 
 .notes {

@@ -52,11 +52,11 @@ class convertion:
         return retour
 
 def main() -> None:
-    print("export ...", end="\r")
+    print("updating ...", end="\r")
     c = convertion(load(open("database.json","r")))
     with open("js/db.json","w") as f:
         dump(c.to_arf(),f,indent=4)
-    print("finished ! ")
+    print("updated !   ")
 
 if __name__ == "__main__":
     main()

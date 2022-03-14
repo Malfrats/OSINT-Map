@@ -15,34 +15,46 @@
             "🌍 epieos": "https://tools.epieos.com/",
             "🌍 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Email/EMAIL%20OSINT%20Attack%20Surface.pdf"
         },
-        "Leaked Database": {
-            "Showing contained informations": {
-                "💵🌍 Leak-Lookup": "https://leak-lookup.com",
-                "💵🌍 _IntelligenceX": "https://intelx.io"
+        "Data Lookup": {
+            "Leaked Database": {
+                "Showing content": {
+                    "💵🌍 Leak-Lookup": "https://leak-lookup.com",
+                    "💵🌍 _IntelligenceX": "https://intelx.io"
+                },
+                "🌍 HaveIBeenPwned": "https://haveibeenpwned.com",
+                "💵🌍 DeHashed": "https://www.dehashed.com"
             },
-            "🌍 HaveIBeenPwned": "https://haveibeenpwned.com",
-            "💵🌍 DeHashed": "https://www.dehashed.com"
+            "💵🌍 Lampyre.io": "https://lampyre.io"
         },
-        "Social Medias": {
-            "Twitter": {
-                "🌍 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Twitter/Twitter%20OSINT%20Attack%20Surface.pdf"
+        "Famous Websites": {
+            "Social Medias": {
+                "Twitter": {
+                    "🌍 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Twitter/Twitter%20OSINT%20Attack%20Surface.pdf",
+                    "🌍 Twitter's Dorking Form": "https://twitter.com/search-advanced"
+                },
+                "Instagram": {
+                    "🌍 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Instagram/Instagram%20OSINT%20Attack%20Surface.pdf",
+                    "📦 Toutatis": "https://github.com/megadose/toutatis",
+                    "📦 Sterra": "https://github.com/novitae/sterraxcyl",
+                    "📦 InstaTrack": "https://github.com/Snbig/InstaTrack",
+                    "📦 OSINTGram": "https://github.com/Datalux/Osintgram"
+                },
+                "Reddit": {
+                    "📦 Snooper": "https://github.com/NicholasDollick/Snooper"
+                },
+                "Discord": {
+                    "🌍 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Discord/Discord%20OSINT%20Attack%20Surface.pdf",
+                    "🌍 Discord ID": "https://discord.id"
+                },
+                "Youtube": {
+                    "🌍 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Youtube/Youtube%20OSINT%20Attack%20Surface.pdf"
+                }
             },
-            "Instagram": {
-                "🌍 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Instagram/Instagram%20OSINT%20Attack%20Surface.pdf",
-                "📦 Toutatis": "https://github.com/megadose/toutatis",
-                "📦 Sterra": "https://github.com/novitae/sterraxcyl",
-                "📦 InstaTrack": "https://github.com/Snbig/InstaTrack",
-                "📦 OSINTGram": "https://github.com/Datalux/Osintgram"
+            "Offensive": {
+                "🌍 Password Recovery Guide": "https://github.com/sinwindie/OSINT/blob/master/MISC/Account%20Knocking%20For%20Fun%20and%20OSINT.pdf"
             },
-            "Reddit": {
-                "📦 Snooper": "https://github.com/NicholasDollick/Snooper"
-            },
-            "Discord": {
-                "🌍 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Discord/Discord%20OSINT%20Attack%20Surface.pdf",
-                "🌍 Discord ID": "https://discord.id"
-            },
-            "Youtube": {
-                "🌍 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Youtube/Youtube%20OSINT%20Attack%20Surface.pdf"
+            "GitHub" : {
+                "📦 ZEN": "https://github.com/s0md3v/Zen"
             }
         },
         "Specific Region / Country": {
@@ -53,7 +65,7 @@
             }
         },
         "Websites": {
-            "subdomains": {
+            "Subdomains": {
                 "📦 SubFinder": "https://github.com/projectdiscovery/subfinder"
             }
         },
@@ -72,6 +84,15 @@
             "🌍 Tineye": "https://tineye.com",
             "🌍 Baidu (百度) Images": "https://www.baidu.com",
             "🌍 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Image%20Analysis/IMAGE%20OSINT%20Attack%20Surface.pdf"
+        },
+        "Dorking": {
+            "Regular Expressions": {
+                "🌍 regex101": "https://regex101.com"
+            },
+            "Google": {
+                "🌍 Google's Dorking form": "https://www.google.com/advanced_search",
+                "🌍 Cheatsheet": "https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06"
+            }
         }
     }
 }
