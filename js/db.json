@@ -51,7 +51,7 @@
                     "name": "Google",
                     "children": [
                         {
-                            "name": "\ud83c\udf0d Cheatsheet",
+                            "name": "\ud83d\udcd2 Cheatsheet",
                             "url": "https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06",
                             "type": "url"
                         },
@@ -81,7 +81,7 @@
             "name": "Email Adresses",
             "children": [
                 {
-                    "name": "\ud83c\udf0d Attack Surface",
+                    "name": "\ud83d\udcd2 Attack Surface",
                     "url": "https://github.com/sinwindie/OSINT/blob/master/Email/EMAIL%20OSINT%20Attack%20Surface.pdf",
                     "type": "url"
                 },
@@ -126,7 +126,7 @@
                     "name": "Offensive",
                     "children": [
                         {
-                            "name": "\ud83c\udf0d Password Recovery Guide",
+                            "name": "\ud83d\udcd2 Password Recovery",
                             "url": "https://github.com/sinwindie/OSINT/blob/master/MISC/Account%20Knocking%20For%20Fun%20and%20OSINT.pdf",
                             "type": "url"
                         }
@@ -140,7 +140,7 @@
                             "name": "Discord",
                             "children": [
                                 {
-                                    "name": "\ud83c\udf0d Attack Surface",
+                                    "name": "\ud83d\udcd2 Attack Surface",
                                     "url": "https://github.com/sinwindie/OSINT/blob/master/Discord/Discord%20OSINT%20Attack%20Surface.pdf",
                                     "type": "url"
                                 },
@@ -198,7 +198,7 @@
                             "name": "Twitter",
                             "children": [
                                 {
-                                    "name": "\ud83c\udf0d Attack Surface",
+                                    "name": "\ud83d\udcd2 Attack Surface",
                                     "url": "https://github.com/sinwindie/OSINT/blob/master/Twitter/Twitter%20OSINT%20Attack%20Surface.pdf",
                                     "type": "url"
                                 },
@@ -214,7 +214,7 @@
                             "name": "Youtube",
                             "children": [
                                 {
-                                    "name": "\ud83c\udf0d Attack Surface",
+                                    "name": "\ud83d\udcd2 Attack Surface",
                                     "url": "https://github.com/sinwindie/OSINT/blob/master/Youtube/Youtube%20OSINT%20Attack%20Surface.pdf",
                                     "type": "url"
                                 }
@@ -234,7 +234,7 @@
                     "name": "Tips",
                     "children": [
                         {
-                            "name": "\ud83c\udf0d Intersections on Google Maps",
+                            "name": "\ud83d\udcd2 Intersections on Google Maps",
                             "url": "https://twitter.com/SEINT_pl/status/1493484660902576128",
                             "type": "url"
                         }
@@ -259,7 +259,7 @@
             "name": "Reverse Image Search",
             "children": [
                 {
-                    "name": "\ud83c\udf0d Attack Surface",
+                    "name": "\ud83d\udcd2 Attack Surface",
                     "url": "https://github.com/sinwindie/OSINT/blob/master/Image%20Analysis/IMAGE%20OSINT%20Attack%20Surface.pdf",
                     "type": "url"
                 },
@@ -333,7 +333,7 @@
             "name": "Usernames",
             "children": [
                 {
-                    "name": "\ud83c\udf0d Attack Surface",
+                    "name": "\ud83d\udcd2 Attack Surface",
                     "url": "https://github.com/sinwindie/OSINT/blob/master/Username/USERNAME%20OSINT%20Attack%20Surface.pdf",
                     "type": "url"
                 },

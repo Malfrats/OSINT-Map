@@ -1,6 +1,6 @@
 from json import dump, load
 
-LEGEND = "📦🌍💵"
+LEGEND = "📦🌍💵📒"
 
 class convertion:
     def __init__(self, Dict:dict) -> None:

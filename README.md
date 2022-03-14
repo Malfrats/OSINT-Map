@@ -12,6 +12,7 @@ _It is an up-to-date and remastered version of osintframework.com not updated an
 :-: | :-:
 💵 | **A tool that has in-app purchases**
 🌍 | **An online tool, website**
+📒 | **A guide, tutorial or explaination**
 
 ## 📥 Add a tool
 To add a tool to the map, follow [this guide](https://github.com/Malfrats/OSINT-Map/blob/main/ADD.md).
