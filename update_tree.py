@@ -1,14 +1,26 @@
 from json import dump, load
 
+LEGEND = "📦🌍💵"
+
 class convertion:
     def __init__(self, Dict:dict) -> None:
         self.dict = Dict
 
+    def sorter(self, dico:dict) -> dict:
+        retour = {}
+        for k in sorted(dico.keys(), key=lambda x:(x.split(" ",1)[-1] if x[0] in LEGEND else x).lower()):
+            if type(dico[k]) is dict:
+                retour[k] = self.sorter(dico=dico[k])
+            else:
+                retour[k] = dico[k]
+        return retour
+
     def to_arf(self) -> dict:
         """Converts the userfriendly dict to the arf.json dict"""
+        self.dict = self.sorter(self.dict) # Pour que l'arbre et toutes ses branches soient classé par ordre alphabétique
         return self._to_arf(self.dict)
     
-    def from_arf(self) -> dict: 
+    def from_arf(self) -> dict:
         """Converts the arf.json dict to the userfriendly dict"""
         return self._from_arf(self.dict)
 
@@ -38,8 +50,6 @@ class convertion:
                 retour[dictio["name"]].update(self._from_arf(item))
 
         return retour
-
-    # module pour sort en alphabétique ?
 
 def main() -> None:
     print("export ...", end="\r")

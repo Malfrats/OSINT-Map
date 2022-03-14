@@ -1,26 +1,77 @@
 {
     "OSINT Map": {
         "Usernames": {
+            "🌍 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Username/USERNAME%20OSINT%20Attack%20Surface.pdf",
             "📦 sherlock": "https://github.com/sherlock-project/sherlock",
-            "📦 maigret": "https://github.com/soxoj/maigret"
+            "📦 Maigret": "https://github.com/soxoj/maigret"
+        },
+        "Names": {
+            "🌍 NAMINT": "https://seintpl.github.io/NAMINT/"
         },
         "Email Adresses": {
             "📦 holehe": "https://github.com/megadose/holehe",
-            "📦 GHunt": "https://github.com/mxrch/GHunt"
+            "📦 GHunt": "https://github.com/mxrch/GHunt",
+            "📦 MailCat": "https://github.com/sharsil/mailcat",
+            "🌍 epieos": "https://tools.epieos.com/",
+            "🌍 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Email/EMAIL%20OSINT%20Attack%20Surface.pdf"
         },
         "Leaked Database": {
-            "With details": {
-                "🌍 Leak-Lookup": "https://leak-lookup.com",
-                "🌍 _IntelligenceX": "https://intelx.io"
+            "Showing contained informations": {
+                "💵🌍 Leak-Lookup": "https://leak-lookup.com",
+                "💵🌍 _IntelligenceX": "https://intelx.io"
             },
-            "🌍 HaveIBeenPwned": "https://haveibeenpwned.com"
+            "🌍 HaveIBeenPwned": "https://haveibeenpwned.com",
+            "💵🌍 DeHashed": "https://www.dehashed.com"
         },
         "Social Medias": {
-            "Twitter": {},
+            "Twitter": {
+                "🌍 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Twitter/Twitter%20OSINT%20Attack%20Surface.pdf"
+            },
             "Instagram": {
+                "🌍 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Instagram/Instagram%20OSINT%20Attack%20Surface.pdf",
                 "📦 Toutatis": "https://github.com/megadose/toutatis",
-                "📦 Sterra": "https://github.com/novitae/sterraxcyl"
+                "📦 Sterra": "https://github.com/novitae/sterraxcyl",
+                "📦 InstaTrack": "https://github.com/Snbig/InstaTrack",
+                "📦 OSINTGram": "https://github.com/Datalux/Osintgram"
+            },
+            "Reddit": {
+                "📦 Snooper": "https://github.com/NicholasDollick/Snooper"
+            },
+            "Discord": {
+                "🌍 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Discord/Discord%20OSINT%20Attack%20Surface.pdf",
+                "🌍 Discord ID": "https://discord.id"
+            },
+            "Youtube": {
+                "🌍 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Youtube/Youtube%20OSINT%20Attack%20Surface.pdf"
             }
+        },
+        "Specific Region / Country": {
+            "European union 🇪🇺": {},
+            "France 🇫🇷": {
+                "📦 DaProfiler": "https://github.com/TheRealDalunacrobate/DaProfiler",
+                "🌍 PagesBlanches": "https://www.pagesjaunes.fr/pagesblanches"
+            }
+        },
+        "Websites": {
+            "subdomains": {
+                "📦 SubFinder": "https://github.com/projectdiscovery/subfinder"
+            }
+        },
+        "Geolocation": {
+            "Tips": {
+                "🌍 Intersections on Google Maps": "https://twitter.com/SEINT_pl/status/1493484660902576128"
+            }
+        },
+        "Reverse Image Search": {
+            "Face Search": {
+                "💵🌍 PimEyes": "https://pimeyes.com/en"
+            },
+            "🌍 Google Images": "https://images.google.com",
+            "🌍 Yandex Images": "https://yandex.com/images/",
+            "🌍 Bing Images": "https://www.bing.com",
+            "🌍 Tineye": "https://tineye.com",
+            "🌍 Baidu (百度) Images": "https://www.baidu.com",
+            "🌍 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Image%20Analysis/IMAGE%20OSINT%20Attack%20Surface.pdf"
         }
     }
 }

@@ -9,6 +9,7 @@
 ## 📏 Rules:
 1. The tool **must be in a category**; precise the category with **an emoji from [this legend](https://github.com/Malfrats/OSINT-Map#-legend)** before a space separating it from the name of the tool.
    - Syntax: `<EMOJI> <NAME>`. Any space forgot between the legend emoji and the name will automatically decline the pull request.
+      - _You can also combine two emojis, e.g.: if tool is online and has in-app purchases. The in-app purchases logo must be placed first._
    - Any non-existent or unspecified category will automatically decline the pull request.
 2. If the tool has **no link with OSINT**, the pull request **will (_obviously_) be delined**.
 ## 🛠 Tutorial:
