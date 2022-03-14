@@ -1,10 +1,11 @@
 from json import dump, load
 
-LEGEND = "📦🌍💵📒"
+LEGEND = "📦🌍💵📒🪙"
 
 class convertion:
     def __init__(self, Dict:dict) -> None:
         self.dict = Dict
+        self.elements = 0
 
     def sorter(self, dico:dict) -> dict:
         retour = {}
@@ -34,6 +35,7 @@ class convertion:
             elif type(v) is str:
                 retour["url"] = v
                 retour["type"] = "url"
+                self.elements += 1
             else:
                 raise TypeError(f"{v} must be a dict or a string.")
 
@@ -42,6 +44,7 @@ class convertion:
     def _from_arf(self, dictio:dict) -> dict:
         retour = {}
         if dictio["type"] == "url":
+            self.elements += 1
             retour[dictio["name"]] = dictio["url"]
 
         elif dictio["type"] == "folder":
@@ -56,7 +59,7 @@ def main() -> None:
     c = convertion(load(open("database.json","r")))
     with open("js/db.json","w") as f:
         dump(c.to_arf(),f,indent=4)
-    print("updated !   ")
+    print(f"updated ! {c.elements} urls in the list.")
 
 if __name__ == "__main__":
     main()

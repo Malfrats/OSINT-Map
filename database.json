@@ -3,10 +3,15 @@
         "Usernames": {
             "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Username/USERNAME%20OSINT%20Attack%20Surface.pdf",
             "📦 sherlock": "https://github.com/sherlock-project/sherlock",
-            "📦 Maigret": "https://github.com/soxoj/maigret"
+            "📦 Maigret": "https://github.com/soxoj/maigret",
+            "📦 Marple": "https://github.com/soxoj/marple"
+        },
+        "Phone Numbers": {
+            "📦 Ignorant": "https://github.com/megadose/ignorant"
         },
         "Names": {
-            "🌍 NAMINT": "https://seintpl.github.io/NAMINT/"
+            "🌍 NAMINT": "https://seintpl.github.io/NAMINT/",
+            "🌍 Slavic Names Provenance": "https://en.wikipedia.org/wiki/Slavic_name_suffixes"
         },
         "Email Adresses": {
             "📦 holehe": "https://github.com/megadose/holehe",
@@ -19,60 +24,100 @@
             "Leaked Database": {
                 "Showing content": {
                     "💵🌍 Leak-Lookup": "https://leak-lookup.com",
-                    "💵🌍 _IntelligenceX": "https://intelx.io"
+                    "🌍🪙 _IntelligenceX": "https://intelx.io"
                 },
                 "🌍 HaveIBeenPwned": "https://haveibeenpwned.com",
-                "💵🌍 DeHashed": "https://www.dehashed.com"
+                "🌍🪙 DeHashed": "https://www.dehashed.com"
             },
             "💵🌍 Lampyre.io": "https://lampyre.io"
         },
-        "Famous Websites": {
-            "Social Medias": {
-                "Twitter": {
-                    "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Twitter/Twitter%20OSINT%20Attack%20Surface.pdf",
-                    "🌍 Twitter's Dorking Form": "https://twitter.com/search-advanced"
-                },
-                "Instagram": {
-                    "🌍 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Instagram/Instagram%20OSINT%20Attack%20Surface.pdf",
-                    "📦 Toutatis": "https://github.com/megadose/toutatis",
-                    "📦 Sterra": "https://github.com/novitae/sterraxcyl",
-                    "📦 InstaTrack": "https://github.com/Snbig/InstaTrack",
-                    "📦 OSINTGram": "https://github.com/Datalux/Osintgram"
-                },
-                "Reddit": {
-                    "📦 Snooper": "https://github.com/NicholasDollick/Snooper"
-                },
-                "Discord": {
-                    "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Discord/Discord%20OSINT%20Attack%20Surface.pdf",
-                    "🌍 Discord ID": "https://discord.id"
-                },
-                "Youtube": {
-                    "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Youtube/Youtube%20OSINT%20Attack%20Surface.pdf"
-                }
+        "Common Networks (trouver un nom adapté)": {
+            "Twitter": {
+                "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Twitter/Twitter%20OSINT%20Attack%20Surface.pdf",
+                "🌍 Twitter's Dorking Form": "https://twitter.com/search-advanced",
+                "🌍 TweetBeaver": "https://tweetbeaver.com",
+                "🌍 Twiangulate": "https://twiangulate.com/search/"
             },
-            "Offensive": {
-                "📒 Password Recovery": "https://github.com/sinwindie/OSINT/blob/master/MISC/Account%20Knocking%20For%20Fun%20and%20OSINT.pdf"
+            "Instagram": {
+                "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Instagram/Instagram%20OSINT%20Attack%20Surface.pdf",
+                "📦 Toutatis": "https://github.com/megadose/toutatis",
+                "📦 Sterra": "https://github.com/novitae/sterraxcyl",
+                "📦 InstaTrack": "https://github.com/Snbig/InstaTrack",
+                "📦 OSINTGram": "https://github.com/Datalux/Osintgram",
+                "📒 View Private Accounts": "https://www.aware-online.com/en/osint-tutorials/view-private-instagram-accounts/"
             },
+            "Reddit": {
+                "📦 Snooper": "https://github.com/NicholasDollick/Snooper"
+            },
+            "Discord": {
+                "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Discord/Discord%20OSINT%20Attack%20Surface.pdf",
+                "🌍 Discord ID": "https://discord.id",
+                "🌍 Discord Snowflake": "https://snowsta.mp"
+            },
+            "Youtube": {
+                "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Youtube/Youtube%20OSINT%20Attack%20Surface.pdf"
+            },
+            "📒 Password Recovery": "https://github.com/sinwindie/OSINT/blob/master/MISC/Account%20Knocking%20For%20Fun%20and%20OSINT.pdf",
             "GitHub" : {
                 "📦 ZEN": "https://github.com/s0md3v/Zen"
+            },
+            "Twitch": {
+                "📒 Infos on User": "https://twitter.com/cyb_detective/status/1489731978081538051",
+                "🌍 JustLog": "https://logs.ivr.fi",
+                "🌍 Pogu.live": "https://pogu.live",
+                "🌍 TwitchDatabase": "https://www.twitchdatabase.com/following"
+            },
+            "Telegram": {
+                "📒 Telegram Fundamentals": "https://www.cqcore.uk/telegram-fundamentals/"
+            },
+            "Apple": {
+                "📦 AppleID Checker": "https://github.com/dsweb19778/AppleIDChecker",
+                "📦 Py-iMessage": "https://github.com/Rolstenhouse/py-iMessage"
+            },
+            "File hosting": {
+                "📦 XeuLeDoc": "https://github.com/Malfrats/xeuledoc"
             }
         },
         "Specific Region / Country": {
-            "European union 🇪🇺": {},
             "France 🇫🇷": {
                 "📦 DaProfiler": "https://github.com/TheRealDalunacrobate/DaProfiler",
                 "🌍 PagesBlanches": "https://www.pagesjaunes.fr/pagesblanches"
+            },
+            "North Korea 🇰🇵": {
+                "📦 AccessDPRK Map": "https://mynorthkorea.blogspot.com/2021/01/accessdprk-2021-map-free-version.html"
+            },
+            "South Korea 🇰🇷": {
+                "🌍 Kakao Map": "https://map.kakao.com"
+            },
+            "Switzerland 🇨🇭": {
+                "📦 Swiss OSINT Toolkit": "https://docs.google.com/spreadsheets/u/0/d/1LHP3gfppDBBPENffw9R7FrhpRxhmP0UhaLiklbQN7tA/htmlview"
+            },
+            "Iceland 🇮🇸": {
+                "🌍 Iceland street view": "https://ja.is/kort/"
             }
         },
         "Websites": {
             "Subdomains": {
                 "📦 SubFinder": "https://github.com/projectdiscovery/subfinder"
-            }
+            },
+            "🌍 ScamSearch": "https://scamsearch.io"
         },
         "Geolocation": {
             "Tips": {
-                "📒 Intersections on Google Maps": "https://twitter.com/SEINT_pl/status/1493484660902576128"
-            }
+                "📒 Intersections on Google Maps": "https://twitter.com/SEINT_pl/status/1493484660902576128",
+                "📒 Geolocation with Mountains": "https://www.youtube.com/watch?v=vNu2X7aCMkU"
+            },
+            "🌍📦 Google Earth": "https://www.google.com/earth/versions/",
+            "🌍 InstaHunt": "https://instahunt.co",
+            "Satelites": {
+                "🌍 EarthOnDemand": "https://earthondemand.astraea.earth"
+            },
+            "Street View": {
+                "🌍 Infrared Street View": "https://isv.intofuture.org/maps"
+            },
+            "🌍 Rutmap": "https://www.rutmap.com/",
+            "🌍 Overpass Turbo": "https://overpass-turbo.eu",
+            "🌍 Baidu Maps": "https://map.baidu.com"
         },
         "Reverse Image Search": {
             "Face Search": {
@@ -92,6 +137,31 @@
             "Google": {
                 "🌍 Google's Dorking form": "https://www.google.com/advanced_search",
                 "📒 Cheatsheet": "https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06"
+            }
+        },
+        "Companies": {
+            "📒 Dorking Tip": "https://twitter.com/OSINTcda/status/1493808415277150208"
+        },
+        "URLs": {
+            "📒 Shortlink verification": "https://seintpl.github.io/osint/short-links-verification-cheatsheet"
+        },
+        "Useful Softwares": {
+            "Data visualisation": {
+                "📦 diagrams.net": "https://www.diagrams.net"
+            },
+            "📦🪙 Maltego": "https://www.maltego.com"
+        },
+        "Cryptocurrencies": {
+            "🌍 WalletExplorer": "https://www.walletexplorer.com",
+            "🌍 BlockExplorer": "https://blockexplorer.com"
+        },
+        "Transports": {
+            "Planes ✈️": {
+                "🌍🪙 FlightRadar24": "https://www.flightradar24.com" 
+            },
+            "Ships ⛵️": {
+                "🌍🪙 MarineTraffic": "https://www.marinetraffic.com/",
+                "🌍🪙 VesselFinder": "https://www.vesselfinder.com/"
             }
         }
     }

@@ -2,6 +2,224 @@
     "name": "OSINT Map",
     "children": [
         {
+            "name": "Common Networks (trouver un nom adapt\u00e9)",
+            "children": [
+                {
+                    "name": "Apple",
+                    "children": [
+                        {
+                            "name": "\ud83d\udce6 AppleID Checker",
+                            "url": "https://github.com/dsweb19778/AppleIDChecker",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83d\udce6 Py-iMessage",
+                            "url": "https://github.com/Rolstenhouse/py-iMessage",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
+                    "name": "Discord",
+                    "children": [
+                        {
+                            "name": "\ud83d\udcd2 Attack Surface",
+                            "url": "https://github.com/sinwindie/OSINT/blob/master/Discord/Discord%20OSINT%20Attack%20Surface.pdf",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d Discord ID",
+                            "url": "https://discord.id",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d Discord Snowflake",
+                            "url": "https://snowsta.mp",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
+                    "name": "File hosting",
+                    "children": [
+                        {
+                            "name": "\ud83d\udce6 XeuLeDoc",
+                            "url": "https://github.com/Malfrats/xeuledoc",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
+                    "name": "GitHub",
+                    "children": [
+                        {
+                            "name": "\ud83d\udce6 ZEN",
+                            "url": "https://github.com/s0md3v/Zen",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
+                    "name": "Instagram",
+                    "children": [
+                        {
+                            "name": "\ud83d\udcd2 Attack Surface",
+                            "url": "https://github.com/sinwindie/OSINT/blob/master/Instagram/Instagram%20OSINT%20Attack%20Surface.pdf",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83d\udce6 InstaTrack",
+                            "url": "https://github.com/Snbig/InstaTrack",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83d\udce6 OSINTGram",
+                            "url": "https://github.com/Datalux/Osintgram",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83d\udce6 Sterra",
+                            "url": "https://github.com/novitae/sterraxcyl",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83d\udce6 Toutatis",
+                            "url": "https://github.com/megadose/toutatis",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83d\udcd2 View Private Accounts",
+                            "url": "https://www.aware-online.com/en/osint-tutorials/view-private-instagram-accounts/",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
+                    "name": "\ud83d\udcd2 Password Recovery",
+                    "url": "https://github.com/sinwindie/OSINT/blob/master/MISC/Account%20Knocking%20For%20Fun%20and%20OSINT.pdf",
+                    "type": "url"
+                },
+                {
+                    "name": "Reddit",
+                    "children": [
+                        {
+                            "name": "\ud83d\udce6 Snooper",
+                            "url": "https://github.com/NicholasDollick/Snooper",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
+                    "name": "Telegram",
+                    "children": [
+                        {
+                            "name": "\ud83d\udcd2 Telegram Fundamentals",
+                            "url": "https://www.cqcore.uk/telegram-fundamentals/",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
+                    "name": "Twitch",
+                    "children": [
+                        {
+                            "name": "\ud83d\udcd2 Infos on User",
+                            "url": "https://twitter.com/cyb_detective/status/1489731978081538051",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d JustLog",
+                            "url": "https://logs.ivr.fi",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d Pogu.live",
+                            "url": "https://pogu.live",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d TwitchDatabase",
+                            "url": "https://www.twitchdatabase.com/following",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
+                    "name": "Twitter",
+                    "children": [
+                        {
+                            "name": "\ud83d\udcd2 Attack Surface",
+                            "url": "https://github.com/sinwindie/OSINT/blob/master/Twitter/Twitter%20OSINT%20Attack%20Surface.pdf",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d TweetBeaver",
+                            "url": "https://tweetbeaver.com",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d Twiangulate",
+                            "url": "https://twiangulate.com/search/",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d Twitter's Dorking Form",
+                            "url": "https://twitter.com/search-advanced",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
+                    "name": "Youtube",
+                    "children": [
+                        {
+                            "name": "\ud83d\udcd2 Attack Surface",
+                            "url": "https://github.com/sinwindie/OSINT/blob/master/Youtube/Youtube%20OSINT%20Attack%20Surface.pdf",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                }
+            ],
+            "type": "folder"
+        },
+        {
+            "name": "Companies",
+            "children": [
+                {
+                    "name": "\ud83d\udcd2 Dorking Tip",
+                    "url": "https://twitter.com/OSINTcda/status/1493808415277150208",
+                    "type": "url"
+                }
+            ],
+            "type": "folder"
+        },
+        {
+            "name": "Cryptocurrencies",
+            "children": [
+                {
+                    "name": "\ud83c\udf0d BlockExplorer",
+                    "url": "https://blockexplorer.com",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\udf0d WalletExplorer",
+                    "url": "https://www.walletexplorer.com",
+                    "type": "url"
+                }
+            ],
+            "type": "folder"
+        },
+        {
             "name": "Data Lookup",
             "children": [
                 {
@@ -13,7 +231,7 @@
                     "name": "Leaked Database",
                     "children": [
                         {
-                            "name": "\ud83d\udcb5\ud83c\udf0d DeHashed",
+                            "name": "\ud83c\udf0d\ud83e\ude99 DeHashed",
                             "url": "https://www.dehashed.com",
                             "type": "url"
                         },
@@ -26,7 +244,7 @@
                             "name": "Showing content",
                             "children": [
                                 {
-                                    "name": "\ud83d\udcb5\ud83c\udf0d _IntelligenceX",
+                                    "name": "\ud83c\udf0d\ud83e\ude99 _IntelligenceX",
                                     "url": "https://intelx.io",
                                     "type": "url"
                                 },
@@ -109,130 +327,63 @@
             "type": "folder"
         },
         {
-            "name": "Famous Websites",
-            "children": [
-                {
-                    "name": "GitHub",
-                    "children": [
-                        {
-                            "name": "\ud83d\udce6 ZEN",
-                            "url": "https://github.com/s0md3v/Zen",
-                            "type": "url"
-                        }
-                    ],
-                    "type": "folder"
-                },
-                {
-                    "name": "Offensive",
-                    "children": [
-                        {
-                            "name": "\ud83d\udcd2 Password Recovery",
-                            "url": "https://github.com/sinwindie/OSINT/blob/master/MISC/Account%20Knocking%20For%20Fun%20and%20OSINT.pdf",
-                            "type": "url"
-                        }
-                    ],
-                    "type": "folder"
-                },
-                {
-                    "name": "Social Medias",
-                    "children": [
-                        {
-                            "name": "Discord",
-                            "children": [
-                                {
-                                    "name": "\ud83d\udcd2 Attack Surface",
-                                    "url": "https://github.com/sinwindie/OSINT/blob/master/Discord/Discord%20OSINT%20Attack%20Surface.pdf",
-                                    "type": "url"
-                                },
-                                {
-                                    "name": "\ud83c\udf0d Discord ID",
-                                    "url": "https://discord.id",
-                                    "type": "url"
-                                }
-                            ],
-                            "type": "folder"
-                        },
-                        {
-                            "name": "Instagram",
-                            "children": [
-                                {
-                                    "name": "\ud83c\udf0d Attack Surface",
-                                    "url": "https://github.com/sinwindie/OSINT/blob/master/Instagram/Instagram%20OSINT%20Attack%20Surface.pdf",
-                                    "type": "url"
-                                },
-                                {
-                                    "name": "\ud83d\udce6 InstaTrack",
-                                    "url": "https://github.com/Snbig/InstaTrack",
-                                    "type": "url"
-                                },
-                                {
-                                    "name": "\ud83d\udce6 OSINTGram",
-                                    "url": "https://github.com/Datalux/Osintgram",
-                                    "type": "url"
-                                },
-                                {
-                                    "name": "\ud83d\udce6 Sterra",
-                                    "url": "https://github.com/novitae/sterraxcyl",
-                                    "type": "url"
-                                },
-                                {
-                                    "name": "\ud83d\udce6 Toutatis",
-                                    "url": "https://github.com/megadose/toutatis",
-                                    "type": "url"
-                                }
-                            ],
-                            "type": "folder"
-                        },
-                        {
-                            "name": "Reddit",
-                            "children": [
-                                {
-                                    "name": "\ud83d\udce6 Snooper",
-                                    "url": "https://github.com/NicholasDollick/Snooper",
-                                    "type": "url"
-                                }
-                            ],
-                            "type": "folder"
-                        },
-                        {
-                            "name": "Twitter",
-                            "children": [
-                                {
-                                    "name": "\ud83d\udcd2 Attack Surface",
-                                    "url": "https://github.com/sinwindie/OSINT/blob/master/Twitter/Twitter%20OSINT%20Attack%20Surface.pdf",
-                                    "type": "url"
-                                },
-                                {
-                                    "name": "\ud83c\udf0d Twitter's Dorking Form",
-                                    "url": "https://twitter.com/search-advanced",
-                                    "type": "url"
-                                }
-                            ],
-                            "type": "folder"
-                        },
-                        {
-                            "name": "Youtube",
-                            "children": [
-                                {
-                                    "name": "\ud83d\udcd2 Attack Surface",
-                                    "url": "https://github.com/sinwindie/OSINT/blob/master/Youtube/Youtube%20OSINT%20Attack%20Surface.pdf",
-                                    "type": "url"
-                                }
-                            ],
-                            "type": "folder"
-                        }
-                    ],
-                    "type": "folder"
-                }
-            ],
-            "type": "folder"
-        },
-        {
             "name": "Geolocation",
             "children": [
                 {
+                    "name": "\ud83c\udf0d Baidu Maps",
+                    "url": "https://map.baidu.com",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\udf0d\ud83d\udce6 Google Earth",
+                    "url": "https://www.google.com/earth/versions/",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\udf0d InstaHunt",
+                    "url": "https://instahunt.co",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\udf0d Overpass Turbo",
+                    "url": "https://overpass-turbo.eu",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\udf0d Rutmap",
+                    "url": "https://www.rutmap.com/",
+                    "type": "url"
+                },
+                {
+                    "name": "Satelites",
+                    "children": [
+                        {
+                            "name": "\ud83c\udf0d EarthOnDemand",
+                            "url": "https://earthondemand.astraea.earth",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
+                    "name": "Street View",
+                    "children": [
+                        {
+                            "name": "\ud83c\udf0d Infrared Street View",
+                            "url": "https://isv.intofuture.org/maps",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
                     "name": "Tips",
                     "children": [
+                        {
+                            "name": "\ud83d\udcd2 Geolocation with Mountains",
+                            "url": "https://www.youtube.com/watch?v=vNu2X7aCMkU",
+                            "type": "url"
+                        },
                         {
                             "name": "\ud83d\udcd2 Intersections on Google Maps",
                             "url": "https://twitter.com/SEINT_pl/status/1493484660902576128",
@@ -250,6 +401,22 @@
                 {
                     "name": "\ud83c\udf0d NAMINT",
                     "url": "https://seintpl.github.io/NAMINT/",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\udf0d Slavic Names Provenance",
+                    "url": "https://en.wikipedia.org/wiki/Slavic_name_suffixes",
+                    "type": "url"
+                }
+            ],
+            "type": "folder"
+        },
+        {
+            "name": "Phone Numbers",
+            "children": [
+                {
+                    "name": "\ud83d\udce6 Ignorant",
+                    "url": "https://github.com/megadose/ignorant",
                     "type": "url"
                 }
             ],
@@ -306,11 +473,6 @@
             "name": "Specific Region / Country",
             "children": [
                 {
-                    "name": "European union \ud83c\uddea\ud83c\uddfa",
-                    "children": [],
-                    "type": "folder"
-                },
-                {
                     "name": "France \ud83c\uddeb\ud83c\uddf7",
                     "children": [
                         {
@@ -325,6 +487,116 @@
                         }
                     ],
                     "type": "folder"
+                },
+                {
+                    "name": "Iceland \ud83c\uddee\ud83c\uddf8",
+                    "children": [
+                        {
+                            "name": "\ud83c\udf0d Iceland street view",
+                            "url": "https://ja.is/kort/",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
+                    "name": "North Korea \ud83c\uddf0\ud83c\uddf5",
+                    "children": [
+                        {
+                            "name": "\ud83d\udce6 AccessDPRK Map",
+                            "url": "https://mynorthkorea.blogspot.com/2021/01/accessdprk-2021-map-free-version.html",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
+                    "name": "South Korea \ud83c\uddf0\ud83c\uddf7",
+                    "children": [
+                        {
+                            "name": "\ud83c\udf0d Kakao Map",
+                            "url": "https://map.kakao.com",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
+                    "name": "Switzerland \ud83c\udde8\ud83c\udded",
+                    "children": [
+                        {
+                            "name": "\ud83d\udce6 Swiss OSINT Toolkit",
+                            "url": "https://docs.google.com/spreadsheets/u/0/d/1LHP3gfppDBBPENffw9R7FrhpRxhmP0UhaLiklbQN7tA/htmlview",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                }
+            ],
+            "type": "folder"
+        },
+        {
+            "name": "Transports",
+            "children": [
+                {
+                    "name": "Planes \u2708\ufe0f",
+                    "children": [
+                        {
+                            "name": "\ud83c\udf0d\ud83e\ude99 FlightRadar24",
+                            "url": "https://www.flightradar24.com",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
+                    "name": "Ships \u26f5\ufe0f",
+                    "children": [
+                        {
+                            "name": "\ud83c\udf0d\ud83e\ude99 MarineTraffic",
+                            "url": "https://www.marinetraffic.com/",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d\ud83e\ude99 VesselFinder",
+                            "url": "https://www.vesselfinder.com/",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                }
+            ],
+            "type": "folder"
+        },
+        {
+            "name": "URLs",
+            "children": [
+                {
+                    "name": "\ud83d\udcd2 Shortlink verification",
+                    "url": "https://seintpl.github.io/osint/short-links-verification-cheatsheet",
+                    "type": "url"
+                }
+            ],
+            "type": "folder"
+        },
+        {
+            "name": "Useful Softwares",
+            "children": [
+                {
+                    "name": "Data visualisation",
+                    "children": [
+                        {
+                            "name": "\ud83d\udce6 diagrams.net",
+                            "url": "https://www.diagrams.net",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
+                    "name": "\ud83d\udce6\ud83e\ude99 Maltego",
+                    "url": "https://www.maltego.com",
+                    "type": "url"
                 }
             ],
             "type": "folder"
@@ -343,6 +615,11 @@
                     "type": "url"
                 },
                 {
+                    "name": "\ud83d\udce6 Marple\nc lourd",
+                    "url": "https://github.com/soxoj/marple",
+                    "type": "url"
+                },
+                {
                     "name": "\ud83d\udce6 sherlock",
                     "url": "https://github.com/sherlock-project/sherlock",
                     "type": "url"
@@ -353,6 +630,11 @@
         {
             "name": "Websites",
             "children": [
+                {
+                    "name": "\ud83c\udf0d ScamSearch",
+                    "url": "https://scamsearch.io",
+                    "type": "url"
+                },
                 {
                     "name": "Subdomains",
                     "children": [
