@@ -3,7 +3,7 @@ var margin = [20, 120, 20, 140],
     height = 800 - margin[0] - margin[2],
     i = 0,
     duration = 500,
-    haschild = "#111111",
+    haschild = "#171717",
     isend = "white",
     root;
 
