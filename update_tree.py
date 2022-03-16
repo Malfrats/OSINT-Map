@@ -1,6 +1,6 @@
 from json import dump, load
 
-LEGEND = "📦🌍💵📒🪙"
+LEGEND = "📦🌍💵📒🪙🧅🧩❗️"
 
 class convertion:
     def __init__(self, Dict:dict) -> None:
@@ -55,11 +55,11 @@ class convertion:
         return retour
 
 def main() -> None:
-    print("updating ...", end="\r")
+    print("Updating ...", end="\r")
     c = convertion(load(open("database.json","r")))
     with open("js/db.json","w") as f:
         dump(c.to_arf(),f,indent=4)
-    print(f"updated ! {c.elements} urls in the list.")
+    print(f"Updated ! {c.elements} urls in the list.")
 
 if __name__ == "__main__":
     main()

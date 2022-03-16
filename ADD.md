@@ -15,6 +15,8 @@ Every pull request will be checked, and if it does not respect the following lin
    - Any non-existent or unspecified category will automatically decline the pull request.
 2. If the tool has **no link with OSINT**, the pull request **will (_obviously_) be delined**.
 _Malfrats industries reserves the right to refuse the addition of a tool even though it respects all the rules, without disclosing the reason (this case should be rare)._
+3. Please **put the ressources that are useful only for one region in its corresponding location name** in `Specific Regions / Countries`.
+    - _If the region / country isn't made, you can create it and add its flag after a space at the end (if it has a flag)._
 ## 🛠 Tutorial:
 If you don't understand how work the json file, the following lines are for you !
 ### 📂 To add a new branch:

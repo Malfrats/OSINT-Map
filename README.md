@@ -12,8 +12,11 @@ _It is an up-to-date and remastered version of osintframework.com not updated an
 :-: | :-:
 💵 | **Inefficient tool without purchases**
 🌍 | **An online tool or service**
-📒 | **A guide, tutorial or explaination**
+📒 | **A guide, tutorial or documentation**
 🪙 | **Useful tool even without purchases**
+🧅 | **Leading to a `.onion` website**
+🧩 | **A web browser extension**
+❗️ | **Offensive-OSINT that might alert the target**
 
 ## 📥 Add a tool
 To add a tool to the map, follow [this guide](https://github.com/Malfrats/OSINT-Map/blob/main/ADD.md).
