@@ -58,7 +58,7 @@ body {
   color:rgb(230, 230, 230)
 }
 
-.colonne {
+.column {
   width: 33%;
   text-align: center;
   padding: 2%;
@@ -89,4 +89,8 @@ path.link {
   fill: none;
   stroke: rgb(75, 75, 75);
   stroke-width: 1px;
+}
+
+.node-item {
+  fill: #006600;
 }
