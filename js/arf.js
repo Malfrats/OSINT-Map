@@ -65,6 +65,7 @@ function update(source) {
 
   nodeEnter.append('a')
       .attr("target", "_blank")
+      .attr("class", "node-item")
       .attr('xlink:href', function(d) { return d.url; })
       .append("svg:text")
       .attr("x", function(d) { return d.children || d._children ? -10 : 10; })

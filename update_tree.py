@@ -1,20 +1,21 @@
-from json import dump, load
+import json
+
 
 LEGEND = "📦🌍💵📒🪙🧅🧩❗️"
 
-class convertion:
+class Conversion:
     def __init__(self, Dict:dict) -> None:
         self.dict = Dict
         self.elements = 0
 
     def sorter(self, dico:dict) -> dict:
-        retour = {}
+        output = {}
         for k in sorted(dico.keys(), key=lambda x:(x.split(" ",1)[-1] if x[0] in LEGEND else x).lower()):
             if type(dico[k]) is dict:
-                retour[k] = self.sorter(dico=dico[k])
+                output[k] = self.sorter(dico=dico[k])
             else:
-                retour[k] = dico[k]
-        return retour
+                output[k] = dico[k]
+        return output
 
     def to_arf(self) -> dict:
         """Converts the userfriendly dict to the arf.json dict"""
@@ -26,39 +27,41 @@ class convertion:
         return self._from_arf(self.dict)
 
     def _to_arf(self, dictio:dict) -> dict:
-        retour = {}
+        output = {}
         for k, v in dictio.items():
-            retour["name"] = k
+            output["name"] = k
             if type(v) is dict:
-                retour["children"] = [self._to_arf({x:y}) for x, y in v.items()]
-                retour["type"] = "folder"
+                output["children"] = [self._to_arf({x:y}) for x, y in v.items()]
+                output["type"] = "folder"
             elif type(v) is str:
-                retour["url"] = v
-                retour["type"] = "url"
+                output["url"] = v
+                output["type"] = "url"
                 self.elements += 1
             else:
                 raise TypeError(f"{v} must be a dict or a string.")
 
-        return retour
+        return output
 
     def _from_arf(self, dictio:dict) -> dict:
-        retour = {}
+        output = {}
         if dictio["type"] == "url":
             self.elements += 1
-            retour[dictio["name"]] = dictio["url"]
+            output[dictio["name"]] = dictio["url"]
 
         elif dictio["type"] == "folder":
-            retour[dictio["name"]] = {}
+            output[dictio["name"]] = {}
             for item in dictio["children"]:
-                retour[dictio["name"]].update(self._from_arf(item))
+                output[dictio["name"]].update(self._from_arf(item))
 
-        return retour
+        return output
 
 def main() -> None:
     print("Updating ...", end="\r")
-    c = convertion(load(open("database.json","r")))
-    with open("js/db.json","w") as f:
-        dump(c.to_arf(),f,indent=4)
+    with open("database.json", "r", encoding="utf-8") as f:
+        json_tree = json.loads(f.read())
+    c = Conversion(json_tree)
+    with open("js/db.json","w", encoding="utf-8") as f:
+        f.write(json.dumps(c.to_arf(),indent=4))
     print(f"Updated ! {c.elements} urls in the list.")
 
 if __name__ == "__main__":
