@@ -1,5 +1,5 @@
 body {
-  background-color: #1d1d1d;
+  background-color: #111111;
   font-size: 14px;
   font-family: 'Roboto', sans-serif;
 }
@@ -34,7 +34,7 @@ body {
 
 .top {
   position: absolute;
-  color: rgb(179, 179, 179);
+  color: rgb(190, 190, 190);
   font-size: 12px;
   margin: 0px;
 }
@@ -67,7 +67,7 @@ body {
 }
 
 a {
-  color:red;
+  color:rgb(226, 7, 7);
 }
 
 .node {
@@ -76,8 +76,7 @@ a {
 
 .node circle {
   cursor: pointer;
-  fill: #fff;
-  stroke: steelblue;
+  stroke: rgb(173, 173, 173);
   stroke-width: 1.5px;
 }
 

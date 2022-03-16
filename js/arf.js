@@ -3,6 +3,8 @@ var margin = [20, 120, 20, 140],
     height = 800 - margin[0] - margin[2],
     i = 0,
     duration = 500,
+    haschild = "#111111",
+    isend = "white",
     root;
 
 var tree = d3.layout.tree()
@@ -61,7 +63,7 @@ function update(source) {
 
   nodeEnter.append("svg:circle")
       .attr("r", 1e-6)
-      .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
+      .style("fill", function(d) { return d._children ? haschild : isend; });
 
   nodeEnter.append('a')
       .attr("target", "_blank")
@@ -86,7 +88,7 @@ function update(source) {
 
   nodeUpdate.select("circle")
       .attr("r", 6)
-      .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
+      .style("fill", function(d) { return d._children ? haschild : isend; });
 
   nodeUpdate.select("text")
       .style("fill-opacity", 1);
