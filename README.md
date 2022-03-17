@@ -3,7 +3,7 @@
 <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/BY--SA%204.0-Licence-inactive?logo=creative-commons"></a>
 -->
 ## [🗺 Available here !](https://map.malfrats.industries)
-<img src="assets/osint-map.png" style="width: 85%">
+<img src="assets/osint-map.png" style="width: 90%">
 
 [**Malfrat's OSINT Map**](https://map.malfrats.industries) is **an online tree** of selected useful tools **made for OSINT** purposes,\
 made to **help you during your investigations** 👀
