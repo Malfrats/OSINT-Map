@@ -4,19 +4,22 @@
   - _If not, go to `https://github.com/<YOUR USERNAME>/OSINT-Map`, and then you're in._
 - **Go in `/database.json`**
 - **Edit the file** then **save it**.
-  - _If you want your project to be merged, follow the rules and the tutorial following this part._
+  - _If you want your project to be merged, follow the rules and tutorial following this part._
 - Submit a **pull request**, and wait for your project being merged to Malfrat's OSINT MAP !
 ## 📏 Rules:
-Every pull request will be checked, and if it does not respect the following lines, 
-1. The tool **must be in a category**; precise the category with **an emoji from [this legend](https://github.com/Malfrats/OSINT-Map#-legend)** before a space separating it from the name of the tool.
-   - Syntax: `<EMOJI> <NAME>`. Do not forgot the space between the legend emoji and the name.
-      - _You can also combine two emojis, e.g.: if tool is online and has in-app purchases, it will look like `💵🌍`._
-      - _If you want to put an emoji in your branch name, the emoji must be at the end of the branch name (this could cause bugs in the conversion to the complex json database)._
-   - Any non-existent or unspecified category will automatically decline the pull request.
+Every pull request will be checked, and if it does not respect the following lines, will be declined.
+1. The tool **must be in a branch**, and **respect the specific Syntax** (specified at the next block).
 2. If the tool has **no link with OSINT**, the pull request **will (_obviously_) be delined**.
-_Malfrats industries reserves the right to refuse the addition of a tool even though it respects all the rules, without disclosing the reason (this case should be rare)._
-3. Please **put the ressources that are useful only for one region in its corresponding location name** in `Specific Regions / Countries`.
-    - _If the region / country isn't made, you can create it and add its flag after a space at the end (if it has a flag)._
+    - _We will be rigorous in our choices concerning the contributions to keep the osint map coherent and interesting to the greatest number without degrading its quality, thank you for respecting this._
+3. Please **put the ressources that are useful only for one region in its corresponding location name** in `Specific Regions`.
+    - _If the region / country isn't made, you can create it and add its flag after a space at the end (if it doesn't have a flag, a symbol of this region)._
+## 🖌 Syntax
+1. Ressources names:
+    - For the legend, precise **one** or **many emoji(s) from [this legend](https://github.com/Malfrats/OSINT-Map#-legend)**. _If there's many emojis, do not add space between emojis._
+    - Add a space.
+    - Add the name of your ressource. It can contain spaces.
+2. Branch names:
+    - You can put spaces in it, but **no emojis at the start** of the string.
 ## 🛠 Tutorial:
 If you don't understand how work the json file, the following lines are for you !
 ### 📂 To add a new branch:
