@@ -1,4 +1,7 @@
 # 🕵️‍ Malfrat's OSINT Map
+<!--
+<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/BY--SA%204.0-Licence-inactive?logo=creative-commons"></a>
+-->
 ## [🗺 Available here !](https://map.malfrats.industries)
 SCREENSHOT ED L'ABRRE UN PEU PLUS COMPLET ICI ET JE SAIS PAS ÉCRIRE BORDEL DE CHIOTTES
 
@@ -8,8 +11,9 @@ made to **help you during your investigations** 👀
 _It is an up-to-date and remastered version of osintframework.com not updated anymore._
 
 ## 🏁 Legend
- 📦 | A tool requiring to be installed
+Emoji | Signification
 :-: | :-:
+📦 | **A tool requiring to be installed**
 💵 | **Inefficient tool without purchases**
 🌍 | **An online tool or service**
 📒 | **A guide, tutorial or documentation**

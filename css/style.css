@@ -1,3 +1,5 @@
+/*Some part of this code is coming from the following code under MIT license:
+https://github.com/lockfale/OSINT-Framework/blob/master/public/css/arf.css */
 body {
   background-color: #171717;
   font-size: 14px;
@@ -54,7 +56,6 @@ body {
 }
 
 .notes {
-  /*text-align: center;*/
   color:rgb(230, 230, 230)
 }
 

@@ -1,6 +1,5 @@
 import json
 
-
 LEGEND = "📦🌍💵📒🪙🧅🧩❗️"
 
 class Conversion:

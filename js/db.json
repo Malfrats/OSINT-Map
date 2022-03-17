@@ -2,18 +2,34 @@
     "name": "OSINT Map",
     "children": [
         {
-            "name": "Companies",
+            "name": "Companies \ud83c\udfec",
             "children": [
                 {
                     "name": "\ud83d\udcd2 Dorking Tip",
                     "url": "https://twitter.com/OSINTcda/status/1493808415277150208",
                     "type": "url"
+                },
+                {
+                    "name": "\ud83c\udf0d OpenCoorporates",
+                    "url": "https://opencorporates.com",
+                    "type": "url"
+                },
+                {
+                    "name": "Shell Compagnies",
+                    "children": [
+                        {
+                            "name": "\ud83c\udf0d Offshore Leaks Database",
+                            "url": "https://offshoreleaks.icij.org",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
                 }
             ],
             "type": "folder"
         },
         {
-            "name": "Cryptocurrencies",
+            "name": "Cryptocurrencies \ud83d\udcc8",
             "children": [
                 {
                     "name": "\ud83c\udf0d BlockExplorer",
@@ -29,7 +45,7 @@
             "type": "folder"
         },
         {
-            "name": "Data Lookup",
+            "name": "Data Lookup \ud83d\udd0d",
             "children": [
                 {
                     "name": "\ud83d\udcb5\ud83c\udf0d Lampyre.io",
@@ -72,8 +88,13 @@
             "type": "folder"
         },
         {
-            "name": "Domains",
+            "name": "Domains \ud83d\udcf6",
             "children": [
+                {
+                    "name": "\ud83d\udcd2 Attack Surface",
+                    "url": "https://github.com/sinwindie/OSINT/blob/master/Websites/Website%20OSINT%20Attack%20Surface.pdf",
+                    "type": "url"
+                },
                 {
                     "name": "Certificates",
                     "children": [
@@ -136,40 +157,7 @@
             "type": "folder"
         },
         {
-            "name": "Dorking",
-            "children": [
-                {
-                    "name": "Google",
-                    "children": [
-                        {
-                            "name": "\ud83d\udcd2 Cheatsheet",
-                            "url": "https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06",
-                            "type": "url"
-                        },
-                        {
-                            "name": "\ud83c\udf0d Google's Dorking form",
-                            "url": "https://www.google.com/advanced_search",
-                            "type": "url"
-                        }
-                    ],
-                    "type": "folder"
-                },
-                {
-                    "name": "Regular Expressions",
-                    "children": [
-                        {
-                            "name": "\ud83c\udf0d regex101",
-                            "url": "https://regex101.com",
-                            "type": "url"
-                        }
-                    ],
-                    "type": "folder"
-                }
-            ],
-            "type": "folder"
-        },
-        {
-            "name": "Email Adresses",
+            "name": "Email Adresses \ud83d\udcec",
             "children": [
                 {
                     "name": "\ud83d\udcd2 Attack Surface",
@@ -205,7 +193,7 @@
             "type": "folder"
         },
         {
-            "name": "Geolocation / Maps",
+            "name": "Geolocation / Maps \ud83d\uddfa",
             "children": [
                 {
                     "name": "\ud83c\udf0d 360\u56fe\u7247",
@@ -279,12 +267,17 @@
                         }
                     ],
                     "type": "folder"
+                },
+                {
+                    "name": "\ud83c\udf0d\ud83d\udcd2 Worldwide OSINT Tools Map",
+                    "url": "https://cipher387.github.io/osintmap/",
+                    "type": "url"
                 }
             ],
             "type": "folder"
         },
         {
-            "name": "Images",
+            "name": "Images \ud83d\uddbc",
             "children": [
                 {
                     "name": "EXIF",
@@ -292,6 +285,22 @@
                         {
                             "name": "\ud83e\udde9 Exif Viewer Pro",
                             "url": "https://chrome.google.com/webstore/detail/exif-viewer-pro/mmbhfeiddhndihdjeganjggkmjapkffm",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
+                    "name": "\ud83d\udcd2 Image Attack Surface",
+                    "url": "https://github.com/sinwindie/OSINT/blob/master/Image%20Analysis/IMAGE%20OSINT%20Attack%20Surface.pdf",
+                    "type": "url"
+                },
+                {
+                    "name": "Logos",
+                    "children": [
+                        {
+                            "name": "\ud83c\udf0d Wipo",
+                            "url": "https://branddb.wipo.int/branddb/en/",
                             "type": "url"
                         }
                     ],
@@ -334,6 +343,11 @@
                         {
                             "name": "\ud83c\udf0d Google Images",
                             "url": "https://images.google.com",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83d\udce6 Google Lens",
+                            "url": "https://lens.google",
                             "type": "url"
                         },
                         {
@@ -415,7 +429,7 @@
             "type": "folder"
         },
         {
-            "name": "IP Adresses",
+            "name": "IP Adresses \ud83d\udd22",
             "children": [
                 {
                     "name": "\ud83c\udf0d InfoByIP",
@@ -425,6 +439,11 @@
                 {
                     "name": "\ud83c\udf0d InfoSniper",
                     "url": "https://www.infosniper.net",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83d\udcd2 IP Adress Attack Surface",
+                    "url": "https://github.com/sinwindie/OSINT/blob/master/IP/IP%20Address%20OSINT%20Attack%20Surface.pdf",
                     "type": "url"
                 },
                 {
@@ -452,11 +471,64 @@
             "type": "folder"
         },
         {
-            "name": "Names",
+            "name": "Military \ud83e\ude96",
+            "children": [
+                {
+                    "name": "Air",
+                    "children": [
+                        {
+                            "name": "\ud83d\udcd2 Google Military Airbase",
+                            "url": "https://twitter.com/terryzim/status/1315957946594066433",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
+                    "name": "\ud83d\udcd2 Ammunitions Wiki",
+                    "url": "http://www.cartrology.com",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83d\udcd2 Camopedia",
+                    "url": "https://www.camopedia.org/index.php/Main_Page",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83d\udcd2 Historical Tanks Wiki (WoT)",
+                    "url": "https://worldoftanks.com/en/tankopedia/",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83d\udcd2 Military and Conflict GIJN Database",
+                    "url": "https://docs.google.com/spreadsheets/d/1wiIVKdvn8QSBQ1LGB9kiGrB28SYFblbZ7uM4uKSWFfU/edit#gid=0",
+                    "type": "url"
+                },
+                {
+                    "name": "Ships",
+                    "children": [
+                        {
+                            "name": "\ud83c\udf0d Military Ships Tracker",
+                            "url": "https://www.marinevesseltraffic.com/2013/02/military-ship-track.html",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                }
+            ],
+            "type": "folder"
+        },
+        {
+            "name": "Names \ud83d\udcc7",
             "children": [
                 {
                     "name": "\ud83c\udf0d NAMINT",
                     "url": "https://seintpl.github.io/NAMINT/",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83d\udcd2 Person Attack Surface",
+                    "url": "https://github.com/sinwindie/OSINT/blob/master/Person/Person%20OSINT%20Attack%20Surface.pdf",
                     "type": "url"
                 },
                 {
@@ -474,7 +546,7 @@
             "type": "folder"
         },
         {
-            "name": "Phone Numbers",
+            "name": "Phone Numbers \ud83d\udcde",
             "children": [
                 {
                     "name": "\ud83d\udce6 Ignorant",
@@ -490,16 +562,61 @@
             "type": "folder"
         },
         {
-            "name": "Social-Medias",
+            "name": "Search engines \ud83e\uddee",
+            "children": [
+                {
+                    "name": "Dorking",
+                    "children": [
+                        {
+                            "name": "DuckDuckGo",
+                            "children": [
+                                {
+                                    "name": "\ud83d\udcd2 goDuck",
+                                    "url": "https://github.com/d34dfr4m3/goDuck",
+                                    "type": "url"
+                                }
+                            ],
+                            "type": "folder"
+                        },
+                        {
+                            "name": "Google",
+                            "children": [
+                                {
+                                    "name": "\ud83d\udcd2 Cheatsheet",
+                                    "url": "https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06",
+                                    "type": "url"
+                                },
+                                {
+                                    "name": "\ud83c\udf0d Google's Dorking form",
+                                    "url": "https://www.google.com/advanced_search",
+                                    "type": "url"
+                                }
+                            ],
+                            "type": "folder"
+                        },
+                        {
+                            "name": "Regular Expressions",
+                            "children": [
+                                {
+                                    "name": "\ud83c\udf0d regex101",
+                                    "url": "https://regex101.com",
+                                    "type": "url"
+                                }
+                            ],
+                            "type": "folder"
+                        }
+                    ],
+                    "type": "folder"
+                }
+            ],
+            "type": "folder"
+        },
+        {
+            "name": "Social-Medias \ud83d\udc65",
             "children": [
                 {
                     "name": "Apple",
                     "children": [
-                        {
-                            "name": "\ud83d\udce6 AppleID Checker",
-                            "url": "https://github.com/dsweb19778/AppleIDChecker",
-                            "type": "url"
-                        },
                         {
                             "name": "\ud83d\udce6 Py-iMessage",
                             "url": "https://github.com/Rolstenhouse/py-iMessage",
@@ -543,6 +660,11 @@
                 {
                     "name": "GitHub",
                     "children": [
+                        {
+                            "name": "\ud83d\udcd2 Github Dorks",
+                            "url": "https://github.com/techgaun/github-dorks",
+                            "type": "url"
+                        },
                         {
                             "name": "\ud83d\udce6 ZEN",
                             "url": "https://github.com/s0md3v/Zen",
@@ -588,9 +710,56 @@
                     "type": "folder"
                 },
                 {
+                    "name": "Linkedin",
+                    "children": [
+                        {
+                            "name": "\ud83d\udcd2 Attack Surface",
+                            "url": "https://github.com/sinwindie/OSINT/blob/master/LinkedIn/LinkedIn%20OSINT%20Attack%20Surface.pdf",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83d\udcd2 Linkedin Google Dorks",
+                            "url": "https://github.com/krlabs/linkedin-dorks",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83d\udce6 Nqntnqnqmb",
+                            "url": "https://github.com/megadose/nqntnqnqmb",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83d\udce6 Revealin",
+                            "url": "https://github.com/mxrch/revealin",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83d\udcd2 Techniques",
+                            "url": "https://github.com/sinwindie/OSINT/blob/master/LinkedIn/LinkedIn%20OSINT%20Techniques%20Part%20I%20and%20II.pdf",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
                     "name": "\ud83d\udcd2\u2757\ufe0f Password Recovery",
                     "url": "https://github.com/sinwindie/OSINT/blob/master/MISC/Account%20Knocking%20For%20Fun%20and%20OSINT.pdf",
                     "type": "url"
+                },
+                {
+                    "name": "Pinterest",
+                    "children": [
+                        {
+                            "name": "\ud83d\udcd2 Attack Surface",
+                            "url": "https://github.com/sinwindie/OSINT/blob/master/Pinterest/Pinterest%20OSINT%20Attack%20Surface.pdf",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83d\udcd2 Bypass Login Popup",
+                            "url": "https://mobile.twitter.com/ohshint_/status/1459737802296348673",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
                 },
                 {
                     "name": "Reddit",
@@ -614,6 +783,16 @@
                         {
                             "name": "\ud83d\udcd2 Telegram Fundamentals",
                             "url": "https://www.cqcore.uk/telegram-fundamentals/",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83d\udce6 Telegram Nearby Map",
+                            "url": "https://github.com/tejado/telegram-nearby-map",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83d\udce6 Telescan",
+                            "url": "https://github.com/pielco11/telescan",
                             "type": "url"
                         }
                     ],
@@ -686,164 +865,237 @@
             "type": "folder"
         },
         {
-            "name": "Specific Regions / Countries",
+            "name": "Specific Regions / Countries \ud83c\udfde",
             "children": [
                 {
-                    "name": "France \ud83c\uddeb\ud83c\uddf7\ud83d\udc13\ud83e\udd56\ud83e\udd50\ud83c\udf77",
+                    "name": "Africa \ud83c\udf1e",
                     "children": [
                         {
-                            "name": "Individuals",
-                            "children": [
-                                {
-                                    "name": "\ud83d\udce6 DaProfiler",
-                                    "url": "https://github.com/TheRealDalunacrobate/DaProfiler",
-                                    "type": "url"
-                                },
-                                {
-                                    "name": "\ud83c\udf0d PagesBlanches",
-                                    "url": "https://www.pagesjaunes.fr/pagesblanches",
-                                    "type": "url"
-                                }
-                            ],
-                            "type": "folder"
-                        },
-                        {
-                            "name": "Transport",
-                            "children": [
-                                {
-                                    "name": "\ud83c\udf0d Raildar.fr",
-                                    "url": "http://www.raildar.fr/",
-                                    "type": "url"
-                                }
-                            ],
-                            "type": "folder"
-                        }
-                    ],
-                    "type": "folder"
-                },
-                {
-                    "name": "Iceland \ud83c\uddee\ud83c\uddf8",
-                    "children": [
-                        {
-                            "name": "Map",
-                            "children": [
-                                {
-                                    "name": "\ud83c\udf0d Iceland street view",
-                                    "url": "https://ja.is/kort/",
-                                    "type": "url"
-                                }
-                            ],
-                            "type": "folder"
-                        }
-                    ],
-                    "type": "folder"
-                },
-                {
-                    "name": "North Korea \ud83c\uddf0\ud83c\uddf5",
-                    "children": [
-                        {
-                            "name": "Map",
-                            "children": [
-                                {
-                                    "name": "\ud83d\udce6 AccessDPRK Map",
-                                    "url": "https://mynorthkorea.blogspot.com/2021/01/accessdprk-2021-map-free-version.html",
-                                    "type": "url"
-                                }
-                            ],
-                            "type": "folder"
-                        }
-                    ],
-                    "type": "folder"
-                },
-                {
-                    "name": "South Korea \ud83c\uddf0\ud83c\uddf7",
-                    "children": [
-                        {
-                            "name": "Map",
-                            "children": [
-                                {
-                                    "name": "\ud83c\udf0d Kakao Map",
-                                    "url": "https://map.kakao.com",
-                                    "type": "url"
-                                }
-                            ],
-                            "type": "folder"
-                        }
-                    ],
-                    "type": "folder"
-                },
-                {
-                    "name": "Switzerland \ud83c\udde8\ud83c\udded",
-                    "children": [
-                        {
-                            "name": "\ud83d\udce6 Swiss OSINT Toolkit",
-                            "url": "https://docs.google.com/spreadsheets/u/0/d/1LHP3gfppDBBPENffw9R7FrhpRxhmP0UhaLiklbQN7tA/htmlview",
+                            "name": "\ud83c\udf0d Afrinic WhoIS",
+                            "url": "https://www.afrinic.net/whois",
                             "type": "url"
                         }
                     ],
                     "type": "folder"
                 },
                 {
-                    "name": "USA \ud83c\uddfa\ud83c\uddf8",
+                    "name": "America \ud83c\udf0e",
                     "children": [
                         {
-                            "name": "Emails",
+                            "name": "USA \ud83c\uddfa\ud83c\uddf8",
                             "children": [
                                 {
-                                    "name": "\ud83c\udf0d ThatsThem",
-                                    "url": "https://thatsthem.com/reverse-email-lookup",
-                                    "type": "url"
+                                    "name": "Emails",
+                                    "children": [
+                                        {
+                                            "name": "\ud83c\udf0d ThatsThem",
+                                            "url": "https://thatsthem.com/reverse-email-lookup",
+                                            "type": "url"
+                                        }
+                                    ],
+                                    "type": "folder"
+                                },
+                                {
+                                    "name": "Phones",
+                                    "children": [
+                                        {
+                                            "name": "\ud83c\udf0d FreeCarrierLookup",
+                                            "url": "https://freecarrierlookup.com",
+                                            "type": "url"
+                                        },
+                                        {
+                                            "name": "\ud83c\udf0d Phone Validator",
+                                            "url": "https://www.phonevalidator.com",
+                                            "type": "url"
+                                        },
+                                        {
+                                            "name": "\ud83c\udf0d Phonerator",
+                                            "url": "https://www.martinvigo.com/tools/phonerator/",
+                                            "type": "url"
+                                        },
+                                        {
+                                            "name": "\ud83c\udf0d ThatsThem",
+                                            "url": "https://thatsthem.com/reverse-phone-lookup",
+                                            "type": "url"
+                                        },
+                                        {
+                                            "name": "\ud83c\udf0d\ud83e\ude99 USPhoneBook",
+                                            "url": "https://www.usphonebook.com",
+                                            "type": "url"
+                                        }
+                                    ],
+                                    "type": "folder"
+                                },
+                                {
+                                    "name": "Transportations",
+                                    "children": [
+                                        {
+                                            "name": "Licence plates",
+                                            "children": [
+                                                {
+                                                    "name": "\ud83c\udf0d InfoTracer",
+                                                    "url": "https://infotracer.com",
+                                                    "type": "url"
+                                                }
+                                            ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "Trains",
+                                            "children": [
+                                                {
+                                                    "name": "\ud83c\udf0d Amtrack Track your Train",
+                                                    "url": "https://www.amtrak.com/track-your-train.html",
+                                                    "type": "url"
+                                                },
+                                                {
+                                                    "name": "\ud83c\udf0d Railroad Casualties Map",
+                                                    "url": "https://fragis.fra.dot.gov/Trespassers/",
+                                                    "type": "url"
+                                                },
+                                                {
+                                                    "name": "\ud83d\udcd2 Railroad Map Depot",
+                                                    "url": "https://stb.maps.arcgis.com/home/index.html",
+                                                    "type": "url"
+                                                },
+                                                {
+                                                    "name": "\ud83c\udf0d Railroad Safety Map",
+                                                    "url": "https://fragis.fra.dot.gov/GISFRASafety/",
+                                                    "type": "url"
+                                                }
+                                            ],
+                                            "type": "folder"
+                                        }
+                                    ],
+                                    "type": "folder"
+                                }
+                            ],
+                            "type": "folder"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
+                    "name": "Antarctic \ud83c\udde6\ud83c\uddf6",
+                    "children": [],
+                    "type": "folder"
+                },
+                {
+                    "name": "Asia / Oceania \ud83c\udf0f",
+                    "children": [
+                        {
+                            "name": "North Korea \ud83c\uddf0\ud83c\uddf5",
+                            "children": [
+                                {
+                                    "name": "Map",
+                                    "children": [
+                                        {
+                                            "name": "\ud83d\udce6 AccessDPRK Map",
+                                            "url": "https://mynorthkorea.blogspot.com/2021/01/accessdprk-2021-map-free-version.html",
+                                            "type": "url"
+                                        }
+                                    ],
+                                    "type": "folder"
                                 }
                             ],
                             "type": "folder"
                         },
                         {
-                            "name": "Phones",
+                            "name": "South Korea \ud83c\uddf0\ud83c\uddf7",
                             "children": [
                                 {
-                                    "name": "\ud83c\udf0d Phone Validator",
-                                    "url": "https://www.phonevalidator.com",
-                                    "type": "url"
+                                    "name": "Map",
+                                    "children": [
+                                        {
+                                            "name": "\ud83c\udf0d Kakao Map",
+                                            "url": "https://map.kakao.com",
+                                            "type": "url"
+                                        }
+                                    ],
+                                    "type": "folder"
+                                }
+                            ],
+                            "type": "folder"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
+                    "name": "Europe \ud83c\uddea\ud83c\uddfa",
+                    "children": [
+                        {
+                            "name": "France \ud83c\uddeb\ud83c\uddf7\ud83d\udc13\ud83e\udd56\ud83e\udd50\ud83c\udf77",
+                            "children": [
+                                {
+                                    "name": "Individuals",
+                                    "children": [
+                                        {
+                                            "name": "\ud83d\udce6 DaProfiler",
+                                            "url": "https://github.com/TheRealDalunacrobate/DaProfiler",
+                                            "type": "url"
+                                        },
+                                        {
+                                            "name": "\ud83c\udf0d PagesBlanches",
+                                            "url": "https://www.pagesjaunes.fr/pagesblanches",
+                                            "type": "url"
+                                        }
+                                    ],
+                                    "type": "folder"
                                 },
                                 {
-                                    "name": "\ud83c\udf0d Phonerator",
-                                    "url": "https://www.martinvigo.com/tools/phonerator/",
-                                    "type": "url"
-                                },
-                                {
-                                    "name": "\ud83c\udf0d ThatsThem",
-                                    "url": "https://thatsthem.com/reverse-phone-lookup",
-                                    "type": "url"
-                                },
-                                {
-                                    "name": "\ud83c\udf0d\ud83e\ude99 USPhoneBook",
-                                    "url": "https://www.usphonebook.com",
-                                    "type": "url"
+                                    "name": "Transport",
+                                    "children": [
+                                        {
+                                            "name": "\ud83c\udf0d Raildar.fr",
+                                            "url": "http://www.raildar.fr/",
+                                            "type": "url"
+                                        }
+                                    ],
+                                    "type": "folder"
                                 }
                             ],
                             "type": "folder"
                         },
                         {
-                            "name": "Trains",
+                            "name": "Iceland \ud83c\uddee\ud83c\uddf8",
                             "children": [
                                 {
-                                    "name": "\ud83c\udf0d Amtrack Track your Train",
-                                    "url": "https://www.amtrak.com/track-your-train.html",
-                                    "type": "url"
-                                },
+                                    "name": "Map",
+                                    "children": [
+                                        {
+                                            "name": "\ud83c\udf0d Iceland street view",
+                                            "url": "https://ja.is/kort/",
+                                            "type": "url"
+                                        }
+                                    ],
+                                    "type": "folder"
+                                }
+                            ],
+                            "type": "folder"
+                        },
+                        {
+                            "name": "Russia \ud83c\uddf7\ud83c\uddfa",
+                            "children": [
                                 {
-                                    "name": "\ud83c\udf0d Railroad Casualties Map",
-                                    "url": "https://fragis.fra.dot.gov/Trespassers/",
-                                    "type": "url"
-                                },
+                                    "name": "Compagnies",
+                                    "children": [
+                                        {
+                                            "name": "\ud83c\udf0d List-Org",
+                                            "url": "https://www.list-org.com",
+                                            "type": "url"
+                                        }
+                                    ],
+                                    "type": "folder"
+                                }
+                            ],
+                            "type": "folder"
+                        },
+                        {
+                            "name": "Switzerland \ud83c\udde8\ud83c\udded",
+                            "children": [
                                 {
-                                    "name": "\ud83d\udcd2 Railroad Map Depot",
-                                    "url": "https://stb.maps.arcgis.com/home/index.html",
-                                    "type": "url"
-                                },
-                                {
-                                    "name": "\ud83c\udf0d Railroad Safety Map",
-                                    "url": "https://fragis.fra.dot.gov/GISFRASafety/",
+                                    "name": "\ud83d\udce6 Swiss OSINT Toolkit",
+                                    "url": "https://docs.google.com/spreadsheets/u/0/d/1LHP3gfppDBBPENffw9R7FrhpRxhmP0UhaLiklbQN7tA/htmlview",
                                     "type": "url"
                                 }
                             ],
@@ -856,8 +1108,19 @@
             "type": "folder"
         },
         {
-            "name": "Transports",
+            "name": "Transports \ud83d\ude82",
             "children": [
+                {
+                    "name": "License Plates \ud83e\udea7",
+                    "children": [
+                        {
+                            "name": "\ud83c\udf0d PlatesMania",
+                            "url": "http://platesmania.com/?&lang=en",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
                 {
                     "name": "Planes \u2708\ufe0f",
                     "children": [
@@ -886,7 +1149,7 @@
                     "type": "folder"
                 },
                 {
-                    "name": "Trains",
+                    "name": "Trains \ud83d\ude85",
                     "children": [
                         {
                             "name": "\ud83c\udf0d Openrailway Map",
@@ -905,7 +1168,7 @@
             "type": "folder"
         },
         {
-            "name": "URLs",
+            "name": "URLs \ud83d\udd17",
             "children": [
                 {
                     "name": "\ud83d\udcd2 Shortlink verification",
@@ -926,7 +1189,7 @@
             "type": "folder"
         },
         {
-            "name": "Useful Softwares",
+            "name": "Useful Softwares \ud83d\udd27",
             "children": [
                 {
                     "name": "Data visualisation",
@@ -948,7 +1211,7 @@
             "type": "folder"
         },
         {
-            "name": "Usernames",
+            "name": "Usernames \ud83c\udff7",
             "children": [
                 {
                     "name": "\ud83d\udcd2 Attack Surface",

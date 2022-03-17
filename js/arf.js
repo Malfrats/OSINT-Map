@@ -1,3 +1,5 @@
+/*This code is majoritarely coming from the following code under MIT license:
+https://github.com/lockfale/OSINT-Framework/blob/master/public/js/arf.js */
 var margin = [20, 120, 20, 140],
     width = 1280 - margin[1] - margin[3],
     height = 800 - margin[0] - margin[2],
