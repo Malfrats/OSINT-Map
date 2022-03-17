@@ -3,12 +3,12 @@
 <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/BY--SA%204.0-Licence-inactive?logo=creative-commons"></a>
 -->
 ## [🗺 Available here !](https://map.malfrats.industries)
-SCREENSHOT ED L'ABRRE UN PEU PLUS COMPLET ICI ET JE SAIS PAS ÉCRIRE BORDEL DE CHIOTTES
+![map-preview](assets/osint-map.png)
 
 [**Malfrat's OSINT Map**](https://map.malfrats.industries) is **an online tree** of selected useful tools **made for OSINT** purposes,\
 made to **help you during your investigations** 👀
 
-_It is an up-to-date and remastered version of osintframework.com not updated anymore._
+_It is an up-to-date and remastered version of osintframework.com, who isn't updated anymore._
 
 ## 🏁 Legend
 Emoji | Signification
@@ -27,5 +27,5 @@ To add a tool to the map, follow [this guide](https://github.com/Malfrats/OSINT-
 
 ## 📢 For Update Notifications
 Twitter -> [@malfratsind](https://twitter.com/malfratsind)\
-Discord -> [r3GMnHVx5H](https://discord.gg/r3GMnHVx5H)\
+Discord -> [Malfrats Industries](https://discord.gg/r3GMnHVx5H)\
 Watch or star [the project](https://github.com/malfrats/osint-map) on Github

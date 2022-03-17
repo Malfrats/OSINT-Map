@@ -18,7 +18,7 @@ _Malfrats industries reserves the right to refuse the addition of a tool even th
 3. Please **put the ressources that are useful only for one region in its corresponding location name** in `Specific Regions / Countries`.
     - _If the region / country isn't made, you can create it and add its flag after a space at the end (if it has a flag)._
 ## 🛠 Tutorial:
-If you don't understand how work the json file, the following lines are for you !
+If you don't understand how work the JSON file, the following lines are for you !
 ### 📂 To add a new branch:
 Let's admit I want to open in the `Usernames` branch a new one called `Alpha`, containing itself an empty branch `Beta`.
 ```python
