@@ -1,7 +1,4 @@
 # 🕵️‍ Malfrat's OSINT Map
-<!--
-<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/BY--SA%204.0-Licence-inactive?logo=creative-commons"></a>
--->
 ## [🗺 Available here !](https://map.malfrats.industries)
 <img src="assets/osint-map.png" style="width: 85%">
 
@@ -9,7 +6,8 @@
 made to **help you during your investigations** 👀
 
 _It is an up-to-date and remastered version of osintframework.com, who isn't updated anymore._
-
+## 📥 Add a tool
+To add a tool to the map, follow [this guide](https://github.com/Malfrats/OSINT-Map/blob/main/ADD.md).
 ## 🏁 Legend
 Emoji | Signification
 :-: | :-:
@@ -21,10 +19,6 @@ Emoji | Signification
 🧅 | **Leading to a `.onion` website**
 🧩 | **A web browser extension**
 ❗️ | **Offensive-OSINT that might alert the target**
-
-## 📥 Add a tool
-To add a tool to the map, follow [this guide](https://github.com/Malfrats/OSINT-Map/blob/main/ADD.md).
-
 ## 📢 For Update Notifications
 Twitter -> [@malfratsind](https://twitter.com/malfratsind)\
 Discord -> [Malfrats Industries](https://discord.gg/r3GMnHVx5H)\
