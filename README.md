@@ -9,15 +9,15 @@ _It is an up-to-date and remastered version of osintframework.com, who isn't upd
 ## 📥 Add a tool
 To add a tool to the map, follow [this guide](https://github.com/Malfrats/OSINT-Map/blob/main/ADD.md).
 ## 🏁 Legend
-Emoji | Signification
+Emoji | Meaning
 :-: | :-:
-📦 | **A tool requiring to be installed**
-💵 | **Inefficient tool without purchases**
-🌍 | **An online tool or service**
-📒 | **A guide, tutorial or documentation**
+📦 | **Requires installation**
+💵 | **Useless without purchases**
+🌍 | **Web-based**
+📒 | **Guide, tutorial or documentation**
 🪙 | **Useful tool even without purchases**
-🧅 | **Leading to a `.onion` website**
-🧩 | **A web browser extension**
+🧅 | **Leads to a `.onion` website**
+🧩 | **Browser extension**
 ❗️ | **Offensive-OSINT that might alert the target**
 ## 📢 For Update Notifications
 Twitter -> [@malfratsind](https://twitter.com/malfratsind)\
