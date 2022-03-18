@@ -12,12 +12,12 @@
         },
         "Names 📇": {
             "🌍 NAMINT": "https://seintpl.github.io/NAMINT/",
-            "Ressources": {
+            "Resources": {
                 "📒 Slavic Names Provenance": "https://en.wikipedia.org/wiki/Slavic_name_suffixes"
             },
             "📒 Person Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Person/Person%20OSINT%20Attack%20Surface.pdf"
         },
-        "Email Adresses 📬": {
+        "Email Addresses 📬": {
             "📦 holehe": "https://github.com/megadose/holehe",
             "📦 GHunt": "https://github.com/mxrch/GHunt",
             "📦 MailCat": "https://github.com/sharsil/mailcat",
@@ -36,7 +36,7 @@
             },
             "💵🌍 Lampyre.io": "https://lampyre.io"
         },
-        "Social-Medias 👥": {
+        "Social media 👥": {
             "Twitter": {
                 "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Twitter/Twitter%20OSINT%20Attack%20Surface.pdf",
                 "🌍 Twitter's Dorking Form": "https://twitter.com/search-advanced",
@@ -113,7 +113,7 @@
                     "Emails": {
                         "🌍 ThatsThem": "https://thatsthem.com/reverse-email-lookup"
                     },
-                    "Transportations": {
+                    "Transportation": {
                         "Trains": {
                             "📒 Railroad Map Depot": "https://stb.maps.arcgis.com/home/index.html",
                             "🌍 Railroad Safety Map": "https://fragis.fra.dot.gov/GISFRASafety/",
@@ -145,7 +145,7 @@
                         "📦 DaProfiler": "https://github.com/TheRealDalunacrobate/DaProfiler",
                         "🌍 PagesBlanches": "https://www.pagesjaunes.fr/pagesblanches"
                     },
-                    "Transport": {
+                    "Transportation": {
                         "🌍 Raildar.fr": "http://www.raildar.fr/"
                     }
                 },
@@ -158,7 +158,7 @@
                     }
                 },
                 "Russia 🇷🇺": {
-                    "Compagnies": {
+                    "Companies": {
                         "🌍 List-Org": "https://www.list-org.com"
                     }
                 }
@@ -188,7 +188,7 @@
             },
             "🌍📦 Google Earth": "https://www.google.com/earth/versions/",
             "🌍 InstaHunt": "https://instahunt.co",
-            "Satelites": {
+            "Satellites": {
                 "🌍 EarthOnDemand": "https://earthondemand.astraea.earth"
             },
             "Street View": {
@@ -254,7 +254,7 @@
         "Companies 🏬": {
             "📒 Dorking Tip": "https://twitter.com/OSINTcda/status/1493808415277150208",
             "🌍 OpenCoorporates": "https://opencorporates.com",
-            "Shell Compagnies": {
+            "Shell Companies": {
                 "🌍 Offshore Leaks Database": "https://offshoreleaks.icij.org"
             }
         },
@@ -263,7 +263,7 @@
             "📒 Shortlink verification": "https://seintpl.github.io/osint/short-links-verification-cheatsheet",
             "🌍 Where does this link goes": "https://wheregoes.com"
         },
-        "Useful Softwares 🔧": {
+        "Useful Software 🔧": {
             "Data visualisation": {
                 "📦 diagrams.net": "https://www.diagrams.net"
             },
@@ -273,7 +273,7 @@
             "🌍 WalletExplorer": "https://www.walletexplorer.com",
             "🌍 BlockExplorer": "https://blockexplorer.com"
         },
-        "Transports 🚂": {
+        "Transportation 🚂": {
             "Planes ✈️": {
                 "🌍🪙 FlightRadar24": "https://www.flightradar24.com" 
             },
@@ -289,7 +289,7 @@
                 "🌍 PlatesMania": "http://platesmania.com/?&lang=en"
             }
         },
-        "IP Adresses 🔢": {
+        "IP Addresses 🔢": {
             "📒 IP Subnet by regions": "https://github.com/ipverse/rir-ip",
             "🌍 InfoSniper": "https://www.infosniper.net",
             "🌍 InfoByIP": "https://www.infobyip.com/",
@@ -297,7 +297,7 @@
                 "🌍❗️ Grabify": "https://grabify.link",
                 "🌍❗️ IPLogger": "https://iplogger.org"
             },
-            "📒 IP Adress Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/IP/IP%20Address%20OSINT%20Attack%20Surface.pdf"
+            "📒 IP Address Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/IP/IP%20Address%20OSINT%20Attack%20Surface.pdf"
         },
         "Military 🪖": {
             "Ships": {
