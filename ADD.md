@@ -15,7 +15,7 @@ Every pull request will be checked, and if it does not respect the following lin
     - _If the region / country isn't made, you can create it and add its flag after a space at the end (if it doesn't have a flag, a symbol of this region)._
 ## 🖌 Syntax
 1. Ressources names:
-    - For the legend, precise **one** or **many emoji(s) from [this legend](https://github.com/Malfrats/OSINT-Map#-legend)**. _If there's many emojis, do not add space between emojis._
+    - For the legend, precise **one** or **many emoji(s) from [this legend](https://github.com/Malfrats/OSINT-Map#-legend)**. _If there's many emojis, do not add space between them._
     - Add a space.
     - Add the name of your ressource. It can contain spaces.
 2. Branch names:
