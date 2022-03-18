@@ -41,7 +41,16 @@
                 "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Twitter/Twitter%20OSINT%20Attack%20Surface.pdf",
                 "🌍 Twitter's Dorking Form": "https://twitter.com/search-advanced",
                 "🌍 TweetBeaver": "https://tweetbeaver.com",
-                "🌍 Twiangulate": "https://twiangulate.com/search/"
+                "Visualization 📊": {
+                    "🌍 Twiangulate": "https://twiangulate.com/search/",
+                    "🌍 Hoaxy": "https://hoaxy.osome.iu.edu",
+                    "🌍 MentionApp": "https://analytics.mentionmapp.com"
+                },
+                "🌍🪙 SocialBearing": "https://socialbearing.com",
+                "Specific Locations 📍": {
+                    "🌍 BirdHunt": "https://birdhunt.co",
+                    "🌍 TwitterFall": "https://twitterfall.com"
+                }
             },
             "Instagram": {
                 "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Instagram/Instagram%20OSINT%20Attack%20Surface.pdf",
@@ -223,7 +232,8 @@
                 "🧩 RevEye": "https://chrome.google.com/webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf",
                 "🌍 Image Identity": "https://www.imageidentify.com",
                 "🌍 SauceNAO": "https://saucenao.com",
-                "📦 Google Lens": "https://lens.google"
+                "📦 Google Lens": "https://lens.google",
+                "🧩 Fake New Debunker": "https://chrome.google.com/webstore/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe"
             },
             "Tools": {
                 "🌍 ImgOps": "http://imgops.com/upload",
@@ -244,7 +254,10 @@
                 },
                 "Google": {
                     "🌍 Google's Dorking form": "https://www.google.com/advanced_search",
-                    "📒 Cheatsheet": "https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06"
+                    "📒 Cheatsheet": "https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06",
+                    "🌍 abhijithb200's Investigator": "https://abhijithb200.github.io/investigator/",
+                    "🌍 faisalahmed's Dorks": "https://dorks.faisalahmed.me/#",
+                    "🌍 DorkSearch": "https://dorksearch.com"
                 },
                 "DuckDuckGo": {
                     "📒 goDuck": "https://github.com/d34dfr4m3/goDuck"
@@ -265,9 +278,11 @@
         },
         "Useful Software 🔧": {
             "Data visualisation": {
-                "📦 diagrams.net": "https://www.diagrams.net"
+                "📦 diagrams.net": "https://www.diagrams.net",
+                "📦🪙 Maltego": "https://www.maltego.com"
             },
-            "📦🪙 Maltego": "https://www.maltego.com"
+            "📦 OSINT-VM": "https://www.tracelabs.org/initiatives/osint-vm",
+            "📦 CSI Linux": "https://csilinux.com"
         },
         "Cryptocurrencies 📈": {
             "🌍 WalletExplorer": "https://www.walletexplorer.com",

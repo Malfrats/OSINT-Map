@@ -341,6 +341,11 @@
                             "type": "folder"
                         },
                         {
+                            "name": "\ud83e\udde9 Fake New Debunker",
+                            "url": "https://chrome.google.com/webstore/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe",
+                            "type": "url"
+                        },
+                        {
                             "name": "\ud83c\udf0d Google Images",
                             "url": "https://images.google.com",
                             "type": "url"
@@ -582,8 +587,23 @@
                             "name": "Google",
                             "children": [
                                 {
+                                    "name": "\ud83c\udf0d abhijithb200's Investigator",
+                                    "url": "https://abhijithb200.github.io/investigator/",
+                                    "type": "url"
+                                },
+                                {
                                     "name": "\ud83d\udcd2 Cheatsheet",
                                     "url": "https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06",
+                                    "type": "url"
+                                },
+                                {
+                                    "name": "\ud83c\udf0d DorkSearch",
+                                    "url": "https://dorksearch.com",
+                                    "type": "url"
+                                },
+                                {
+                                    "name": "\ud83c\udf0d faisalahmed's Dorks",
+                                    "url": "https://dorks.faisalahmed.me/#",
                                     "type": "url"
                                 },
                                 {
@@ -833,19 +853,56 @@
                             "type": "url"
                         },
                         {
-                            "name": "\ud83c\udf0d TweetBeaver",
-                            "url": "https://tweetbeaver.com",
+                            "name": "\ud83c\udf0d\ud83e\ude99 SocialBearing",
+                            "url": "https://socialbearing.com",
                             "type": "url"
                         },
                         {
-                            "name": "\ud83c\udf0d Twiangulate",
-                            "url": "https://twiangulate.com/search/",
+                            "name": "Specific Locations \ud83d\udccd",
+                            "children": [
+                                {
+                                    "name": "\ud83c\udf0d BirdHunt",
+                                    "url": "https://birdhunt.co",
+                                    "type": "url"
+                                },
+                                {
+                                    "name": "\ud83c\udf0d TwitterFall",
+                                    "url": "https://twitterfall.com",
+                                    "type": "url"
+                                }
+                            ],
+                            "type": "folder"
+                        },
+                        {
+                            "name": "\ud83c\udf0d TweetBeaver",
+                            "url": "https://tweetbeaver.com",
                             "type": "url"
                         },
                         {
                             "name": "\ud83c\udf0d Twitter's Dorking Form",
                             "url": "https://twitter.com/search-advanced",
                             "type": "url"
+                        },
+                        {
+                            "name": "Visualization \ud83d\udcca",
+                            "children": [
+                                {
+                                    "name": "\ud83c\udf0d Hoaxy",
+                                    "url": "https://hoaxy.osome.iu.edu",
+                                    "type": "url"
+                                },
+                                {
+                                    "name": "\ud83c\udf0d MentionApp",
+                                    "url": "https://analytics.mentionmapp.com",
+                                    "type": "url"
+                                },
+                                {
+                                    "name": "\ud83c\udf0d Twiangulate",
+                                    "url": "https://twiangulate.com/search/",
+                                    "type": "url"
+                                }
+                            ],
+                            "type": "folder"
                         }
                     ],
                     "type": "folder"
@@ -865,7 +922,7 @@
             "type": "folder"
         },
         {
-            "name": "Specific Regions / Countries \ud83c\udfde",
+            "name": "Specific Regions \ud83c\udfde",
             "children": [
                 {
                     "name": "Africa \ud83c\udf1e",
@@ -1192,19 +1249,29 @@
             "name": "Useful Software \ud83d\udd27",
             "children": [
                 {
+                    "name": "\ud83d\udce6 CSI Linux",
+                    "url": "https://csilinux.com",
+                    "type": "url"
+                },
+                {
                     "name": "Data visualisation",
                     "children": [
                         {
                             "name": "\ud83d\udce6 diagrams.net",
                             "url": "https://www.diagrams.net",
                             "type": "url"
+                        },
+                        {
+                            "name": "\ud83d\udce6\ud83e\ude99 Maltego",
+                            "url": "https://www.maltego.com",
+                            "type": "url"
                         }
                     ],
                     "type": "folder"
                 },
                 {
-                    "name": "\ud83d\udce6\ud83e\ude99 Maltego",
-                    "url": "https://www.maltego.com",
+                    "name": "\ud83d\udce6 OSINT-VM",
+                    "url": "https://www.tracelabs.org/initiatives/osint-vm",
                     "type": "url"
                 }
             ],
