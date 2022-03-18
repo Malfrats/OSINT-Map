@@ -1262,6 +1262,11 @@
                             "type": "url"
                         },
                         {
+                            "name": "\ud83d\udce6\ud83e\ude99 LinkScope",
+                            "url": "https://www.accentusoft.com",
+                            "type": "url"
+                        },
+                        {
                             "name": "\ud83d\udce6\ud83e\ude99 Maltego",
                             "url": "https://www.maltego.com",
                             "type": "url"
