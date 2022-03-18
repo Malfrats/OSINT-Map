@@ -15,7 +15,7 @@
                     "type": "url"
                 },
                 {
-                    "name": "Shell Compagnies",
+                    "name": "Shell Companies",
                     "children": [
                         {
                             "name": "\ud83c\udf0d Offshore Leaks Database",
@@ -157,7 +157,7 @@
             "type": "folder"
         },
         {
-            "name": "Email Adresses \ud83d\udcec",
+            "name": "Email Addresses \ud83d\udcec",
             "children": [
                 {
                     "name": "\ud83d\udcd2 Attack Surface",
@@ -226,7 +226,7 @@
                     "type": "url"
                 },
                 {
-                    "name": "Satelites",
+                    "name": "Satellites",
                     "children": [
                         {
                             "name": "\ud83c\udf0d EarthOnDemand",
@@ -429,7 +429,7 @@
             "type": "folder"
         },
         {
-            "name": "IP Adresses \ud83d\udd22",
+            "name": "IP Addresses \ud83d\udd22",
             "children": [
                 {
                     "name": "\ud83c\udf0d InfoByIP",
@@ -442,7 +442,7 @@
                     "type": "url"
                 },
                 {
-                    "name": "\ud83d\udcd2 IP Adress Attack Surface",
+                    "name": "\ud83d\udcd2 IP Address Attack Surface",
                     "url": "https://github.com/sinwindie/OSINT/blob/master/IP/IP%20Address%20OSINT%20Attack%20Surface.pdf",
                     "type": "url"
                 },
@@ -532,7 +532,7 @@
                     "type": "url"
                 },
                 {
-                    "name": "Ressources",
+                    "name": "Resources",
                     "children": [
                         {
                             "name": "\ud83d\udcd2 Slavic Names Provenance",
@@ -612,7 +612,7 @@
             "type": "folder"
         },
         {
-            "name": "Social-Medias \ud83d\udc65",
+            "name": "Social media \ud83d\udc65",
             "children": [
                 {
                     "name": "Apple",
@@ -927,7 +927,7 @@
                                     "type": "folder"
                                 },
                                 {
-                                    "name": "Transportations",
+                                    "name": "Transportation",
                                     "children": [
                                         {
                                             "name": "Licence plates",
@@ -1043,7 +1043,7 @@
                                     "type": "folder"
                                 },
                                 {
-                                    "name": "Transport",
+                                    "name": "Transportation",
                                     "children": [
                                         {
                                             "name": "\ud83c\udf0d Raildar.fr",
@@ -1077,7 +1077,7 @@
                             "name": "Russia \ud83c\uddf7\ud83c\uddfa",
                             "children": [
                                 {
-                                    "name": "Compagnies",
+                                    "name": "Companies",
                                     "children": [
                                         {
                                             "name": "\ud83c\udf0d List-Org",
@@ -1108,7 +1108,7 @@
             "type": "folder"
         },
         {
-            "name": "Transports \ud83d\ude82",
+            "name": "Transportation \ud83d\ude82",
             "children": [
                 {
                     "name": "License Plates \ud83e\udea7",
@@ -1189,7 +1189,7 @@
             "type": "folder"
         },
         {
-            "name": "Useful Softwares \ud83d\udd27",
+            "name": "Useful Software \ud83d\udd27",
             "children": [
                 {
                     "name": "Data visualisation",
