@@ -58,7 +58,8 @@
                 "📦 Sterra": "https://github.com/novitae/sterraxcyl",
                 "📦 InstaTrack": "https://github.com/Snbig/InstaTrack",
                 "📦 OSINTGram": "https://github.com/Datalux/Osintgram",
-                "📒 View Private Accounts": "https://www.aware-online.com/en/osint-tutorials/view-private-instagram-accounts/"
+                "📒 View Private Accounts": "https://www.aware-online.com/en/osint-tutorials/view-private-instagram-accounts/",
+                "📦 Tenai": "https://github.com/novitae/Tenai"
             },
             "Reddit": {
                 "📦 Snooper": "https://github.com/NicholasDollick/Snooper",
@@ -103,7 +104,8 @@
             },
             "Pinterest": {
                 "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Pinterest/Pinterest%20OSINT%20Attack%20Surface.pdf",
-                "📒 Bypass Login Popup": "https://mobile.twitter.com/ohshint_/status/1459737802296348673"
+                "📒 Bypass Login Popup": "https://mobile.twitter.com/ohshint_/status/1459737802296348673",
+                "📦 Pinterest Downloader": "https://github.com/limkokhole/pinterest-downloader"
             }
         },
         "Specific Regions 🏞": {
@@ -145,6 +147,9 @@
                     "Map": {
                         "🌍 Kakao Map": "https://map.kakao.com"
                     }
+                },
+                "China 🇨🇳": {
+                    "📒 Download pan.baidu files": "https://gist.github.com/mfiro/b0bdf5f4054a34c36bf3a8e6d9bf5397#gistcomment-4013461"
                 }
             },
             "Antarctic 🇦🇶": {},
@@ -191,6 +196,9 @@
             "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Websites/Website%20OSINT%20Attack%20Surface.pdf"
         },
         "Geolocation / Maps 🗺": {
+            "Montains": {
+                "🌍 PeakVisor": "https://peakvisor.com"
+            },
             "Tips": {
                 "📒 Intersections on Google Maps": "https://twitter.com/SEINT_pl/status/1493484660902576128",
                 "📒 Geolocation with Mountains": "https://www.youtube.com/watch?v=vNu2X7aCMkU"

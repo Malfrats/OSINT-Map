@@ -10,7 +10,7 @@
                     "type": "url"
                 },
                 {
-                    "name": "\ud83c\udf0d OpenCoorporates",
+                    "name": "\ud83c\udf0d OpenCorporates",
                     "url": "https://opencorporates.com",
                     "type": "url"
                 },
@@ -214,6 +214,17 @@
                     "name": "\ud83c\udf0d InstaHunt",
                     "url": "https://instahunt.co",
                     "type": "url"
+                },
+                {
+                    "name": "Montains",
+                    "children": [
+                        {
+                            "name": "\ud83c\udf0d PeakVisor",
+                            "url": "https://peakvisor.com",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
                 },
                 {
                     "name": "\ud83c\udf0d Overpass Turbo",
@@ -717,6 +728,11 @@
                             "type": "url"
                         },
                         {
+                            "name": "\ud83d\udce6 Tenai",
+                            "url": "https://github.com/novitae/Tenai",
+                            "type": "url"
+                        },
+                        {
                             "name": "\ud83d\udce6 Toutatis",
                             "url": "https://github.com/megadose/toutatis",
                             "type": "url"
@@ -776,6 +792,11 @@
                         {
                             "name": "\ud83d\udcd2 Bypass Login Popup",
                             "url": "https://mobile.twitter.com/ohshint_/status/1459737802296348673",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83d\udce6 Pinterest Downloader",
+                            "url": "https://github.com/limkokhole/pinterest-downloader",
                             "type": "url"
                         }
                     ],
@@ -1040,6 +1061,17 @@
                 {
                     "name": "Asia / Oceania \ud83c\udf0f",
                     "children": [
+                        {
+                            "name": "China \ud83c\udde8\ud83c\uddf3",
+                            "children": [
+                                {
+                                    "name": "\ud83d\udcd2 Download pan.baidu files",
+                                    "url": "https://gist.github.com/mfiro/b0bdf5f4054a34c36bf3a8e6d9bf5397#gistcomment-4013461",
+                                    "type": "url"
+                                }
+                            ],
+                            "type": "folder"
+                        },
                         {
                             "name": "North Korea \ud83c\uddf0\ud83c\uddf5",
                             "children": [
