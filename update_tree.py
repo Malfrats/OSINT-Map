@@ -60,7 +60,7 @@ def main() -> None:
         json_tree = json.loads(f.read())
     c = Conversion(json_tree)
     with open("js/tree.json","w", encoding="utf-8") as f:
-        f.write(json.dumps(c.to_arf(),indent=4))
+        json.dump(c.to_arf(), f, indent=4)
     print(f"Updated ! {c.elements} urls in the list.")
 
 if __name__ == "__main__":

@@ -21,9 +21,10 @@
             "📦 holehe": "https://github.com/megadose/holehe",
             "📦 GHunt": "https://github.com/mxrch/GHunt",
             "📦 MailCat": "https://github.com/sharsil/mailcat",
-            "🌍 epieos": "https://tools.epieos.com/",
+            "🌍🪙 epieos": "https://tools.epieos.com/",
             "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Email/EMAIL%20OSINT%20Attack%20Surface.pdf",
-            "🌍 Verify-Email": "https://verify-email.org"
+            "🌍 Verify-Email": "https://verify-email.org",
+            "📦 Censored Domain finder": "https://github.com/novitae/Aet-s-Tools/tree/main/EmDoFi"
         },
         "Data Lookup 🔍": {
             "Leaked Database": {
@@ -76,7 +77,8 @@
             "📒❗️ Password Recovery": "https://github.com/sinwindie/OSINT/blob/master/MISC/Account%20Knocking%20For%20Fun%20and%20OSINT.pdf",
             "GitHub" : {
                 "📦 ZEN": "https://github.com/s0md3v/Zen",
-                "📒 Github Dorks": "https://github.com/techgaun/github-dorks"
+                "📒 Github Dorks": "https://github.com/techgaun/github-dorks",
+                "🌍 Github Code Search": "https://cs.github.com"
             },
             "Twitch": {
                 "📒 Infos on User": "https://twitter.com/cyb_detective/status/1489731978081538051",
@@ -113,28 +115,33 @@
                 "🌍 Afrinic WhoIS": "https://www.afrinic.net/whois"
             },
             "America 🌎" : {
-                "USA 🇺🇸": {
-                    "Phones": {
-                        "🌍🪙 USPhoneBook": "https://www.usphonebook.com",
-                        "🌍 ThatsThem": "https://thatsthem.com/reverse-phone-lookup",
-                        "🌍 Phone Validator": "https://www.phonevalidator.com",
-                        "🌍 Phonerator": "https://www.martinvigo.com/tools/phonerator/",
-                        "🌍 FreeCarrierLookup": "https://freecarrierlookup.com"
-                    },
-                    "Emails": {
-                        "🌍 ThatsThem": "https://thatsthem.com/reverse-email-lookup"
-                    },
-                    "Transportation": {
-                        "Trains": {
-                            "📒 Railroad Map Depot": "https://stb.maps.arcgis.com/home/index.html",
-                            "🌍 Railroad Safety Map": "https://fragis.fra.dot.gov/GISFRASafety/",
-                            "🌍 Railroad Casualties Map": "https://fragis.fra.dot.gov/Trespassers/",
-                            "🌍 Amtrack Track your Train": "https://www.amtrak.com/track-your-train.html"
+                "North America":{
+                    "USA 🇺🇸": {
+                        "Phones": {
+                            "🌍🪙 USPhoneBook": "https://www.usphonebook.com",
+                            "🌍 ThatsThem": "https://thatsthem.com/reverse-phone-lookup",
+                            "🌍 Phone Validator": "https://www.phonevalidator.com",
+                            "🌍 Phonerator": "https://www.martinvigo.com/tools/phonerator/",
+                            "🌍 FreeCarrierLookup": "https://freecarrierlookup.com"
                         },
-                        "Licence plates": {
-                            "🌍 InfoTracer": "https://infotracer.com"
+                        "Emails": {
+                            "🌍 ThatsThem": "https://thatsthem.com/reverse-email-lookup"
+                        },
+                        "Transportation": {
+                            "Trains": {
+                                "📒 Railroad Map Depot": "https://stb.maps.arcgis.com/home/index.html",
+                                "🌍 Railroad Safety Map": "https://fragis.fra.dot.gov/GISFRASafety/",
+                                "🌍 Railroad Casualties Map": "https://fragis.fra.dot.gov/Trespassers/",
+                                "🌍 Amtrack Track your Train": "https://www.amtrak.com/track-your-train.html"
+                            },
+                            "Licence plates": {
+                                "🌍 InfoTracer": "https://infotracer.com"
+                            }
                         }
                     }
+                },
+                "South America": {
+                    "🌍 Páginas Amarillas (Yellow pages)": "https://www.paginasamarillas.com"
                 }
             },
             "Asia / Oceania 🌏": {
@@ -178,8 +185,15 @@
                     "Companies": {
                         "🌍 List-Org": "https://www.list-org.com"
                     }
+                },
+                "Spain 🇪🇸": {
+                    "🌍 Cadastre": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCBusqueda.aspx"
+                },
+                "Turkey 🇹🇷": {
+                    "🌍 Yellow&White pages": "http://www.ttrehber.turktelekom.com.tr/?type=white"
                 }
-            }
+            },
+            "🌍📒 Worldwide OSINT Tools Map": "https://cipher387.github.io/osintmap/"
         },
         "Domains 📶": {
             "Subdomains": {
@@ -194,33 +208,35 @@
             },
             "🌍🪙 Shodan": "https://www.shodan.io",
             "Certificates": {
-                "🌍 crt.sh": "https://crt.sh/?"
+                "🌍 crt.sh": "https://crt.sh/"
             },
             "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Websites/Website%20OSINT%20Attack%20Surface.pdf"
         },
-        "Geolocation / Maps 🗺": {
+        "Geolocation & Maps 🗺": {
             "Montains": {
                 "🌍 PeakVisor": "https://peakvisor.com"
             },
-            "Tips": {
+            "GEOINT Tips": {
                 "📒 Intersections on Google Maps": "https://twitter.com/SEINT_pl/status/1493484660902576128",
-                "📒 Geolocation with Mountains": "https://www.youtube.com/watch?v=vNu2X7aCMkU"
+                "📒 Geolocation with Mountains": "https://www.youtube.com/watch?v=vNu2X7aCMkU",
+                "📒 Identifying voltage levels of eletric lines": "https://twitter.com/engineers_feed/status/1522799064852537344"
             },
-            "🌍📦 Google Earth": "https://www.google.com/earth/versions/",
             "🌍 InstaHunt": "https://instahunt.co",
+            "🌍🪙 HuntIntel": "https://www.huntintel.io",
             "Satellites": {
                 "🌍 EarthOnDemand": "https://earthondemand.astraea.earth"
             },
             "Street View": {
                 "🌍 Infrared Street View": "https://isv.intofuture.org/maps"
             },
-            "🌍 Rutmap": "https://www.rutmap.com/",
-            "🌍 Overpass Turbo": "https://overpass-turbo.eu",
-            "🌍 Baidu Maps": "https://map.baidu.com",
-            "🌍 360图片": "https://images.so.com/",
-            "🌍 Sogou": "https://pic.sogou.com",
-            "🌍📒 Worldwide OSINT Tools Map": "https://cipher387.github.io/osintmap/"
-        },
+            "Maps": {
+                "🌍 Rutmap": "https://www.rutmap.com/",
+                "🌍 Overpass Turbo": "https://overpass-turbo.eu",
+                "🌍 Baidu Maps": "https://map.baidu.com",
+                "🌍 360图片": "https://images.so.com/",
+                "🌍 Sogou": "https://pic.sogou.com",
+                "🌍📦 Google Earth": "https://www.google.com/earth/versions/"
+            }        },
         "Images 🖼": {
             "Reverse Image Search": {
                 "Face Search": {
@@ -273,6 +289,9 @@
                 "DuckDuckGo": {
                     "📒 goDuck": "https://github.com/d34dfr4m3/goDuck"
                 }
+            },
+            "Caches": {
+                "🌍 Cache and Archive search": "https://cipher387.github.io/quickcacheandarchivesearch/"
             }
         },
         "Companies 🏬": {
@@ -320,6 +339,7 @@
             "📒 IP Subnet by regions": "https://github.com/ipverse/rir-ip",
             "🌍 InfoSniper": "https://www.infosniper.net",
             "🌍 InfoByIP": "https://www.infobyip.com/",
+            "🌍 IP Investigation toolbox": "https://cipher387.github.io/domain_investigation_toolbox/ip.html",
             "IP Loggers": {
                 "🌍❗️ Grabify": "https://grabify.link",
                 "🌍❗️ IPLogger": "https://iplogger.org"

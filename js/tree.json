@@ -100,7 +100,7 @@
                     "children": [
                         {
                             "name": "\ud83c\udf0d crt.sh",
-                            "url": "https://crt.sh/?",
+                            "url": "https://crt.sh/",
                             "type": "url"
                         }
                     ],
@@ -165,7 +165,12 @@
                     "type": "url"
                 },
                 {
-                    "name": "\ud83c\udf0d epieos",
+                    "name": "\ud83d\udce6 Censored Domain finder",
+                    "url": "https://github.com/novitae/Aet-s-Tools/tree/main/EmDoFi",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\udf0d\ud83e\ude99 epieos",
                     "url": "https://tools.epieos.com/",
                     "type": "url"
                 },
@@ -193,27 +198,74 @@
             "type": "folder"
         },
         {
-            "name": "Geolocation / Maps \ud83d\uddfa",
+            "name": "Geolocation & Maps \ud83d\uddfa",
             "children": [
                 {
-                    "name": "\ud83c\udf0d 360\u56fe\u7247",
-                    "url": "https://images.so.com/",
-                    "type": "url"
+                    "name": "GEOINT Tips",
+                    "children": [
+                        {
+                            "name": "\ud83d\udcd2 Geolocation with Mountains",
+                            "url": "https://www.youtube.com/watch?v=vNu2X7aCMkU",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83d\udcd2 Identifying voltage levels of eletric lines",
+                            "url": "https://twitter.com/engineers_feed/status/1522799064852537344",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83d\udcd2 Intersections on Google Maps",
+                            "url": "https://twitter.com/SEINT_pl/status/1493484660902576128",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
                 },
                 {
-                    "name": "\ud83c\udf0d Baidu Maps",
-                    "url": "https://map.baidu.com",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83c\udf0d\ud83d\udce6 Google Earth",
-                    "url": "https://www.google.com/earth/versions/",
+                    "name": "\ud83c\udf0d\ud83e\ude99 HuntIntel",
+                    "url": "https://www.huntintel.io",
                     "type": "url"
                 },
                 {
                     "name": "\ud83c\udf0d InstaHunt",
                     "url": "https://instahunt.co",
                     "type": "url"
+                },
+                {
+                    "name": "Maps",
+                    "children": [
+                        {
+                            "name": "\ud83c\udf0d 360\u56fe\u7247",
+                            "url": "https://images.so.com/",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d Baidu Maps",
+                            "url": "https://map.baidu.com",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d\ud83d\udce6 Google Earth",
+                            "url": "https://www.google.com/earth/versions/",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d Overpass Turbo",
+                            "url": "https://overpass-turbo.eu",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d Rutmap",
+                            "url": "https://www.rutmap.com/",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d Sogou",
+                            "url": "https://pic.sogou.com",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
                 },
                 {
                     "name": "Montains",
@@ -227,16 +279,6 @@
                     "type": "folder"
                 },
                 {
-                    "name": "\ud83c\udf0d Overpass Turbo",
-                    "url": "https://overpass-turbo.eu",
-                    "type": "url"
-                },
-                {
-                    "name": "\ud83c\udf0d Rutmap",
-                    "url": "https://www.rutmap.com/",
-                    "type": "url"
-                },
-                {
                     "name": "Satellites",
                     "children": [
                         {
@@ -248,11 +290,6 @@
                     "type": "folder"
                 },
                 {
-                    "name": "\ud83c\udf0d Sogou",
-                    "url": "https://pic.sogou.com",
-                    "type": "url"
-                },
-                {
                     "name": "Street View",
                     "children": [
                         {
@@ -262,27 +299,6 @@
                         }
                     ],
                     "type": "folder"
-                },
-                {
-                    "name": "Tips",
-                    "children": [
-                        {
-                            "name": "\ud83d\udcd2 Geolocation with Mountains",
-                            "url": "https://www.youtube.com/watch?v=vNu2X7aCMkU",
-                            "type": "url"
-                        },
-                        {
-                            "name": "\ud83d\udcd2 Intersections on Google Maps",
-                            "url": "https://twitter.com/SEINT_pl/status/1493484660902576128",
-                            "type": "url"
-                        }
-                    ],
-                    "type": "folder"
-                },
-                {
-                    "name": "\ud83c\udf0d\ud83d\udcd2 Worldwide OSINT Tools Map",
-                    "url": "https://cipher387.github.io/osintmap/",
-                    "type": "url"
                 }
             ],
             "type": "folder"
@@ -463,6 +479,11 @@
                     "type": "url"
                 },
                 {
+                    "name": "\ud83c\udf0d IP Investigation toolbox",
+                    "url": "https://cipher387.github.io/domain_investigation_toolbox/ip.html",
+                    "type": "url"
+                },
+                {
                     "name": "IP Loggers",
                     "children": [
                         {
@@ -581,6 +602,17 @@
             "name": "Search engines \ud83e\uddee",
             "children": [
                 {
+                    "name": "Caches",
+                    "children": [
+                        {
+                            "name": "\ud83c\udf0d Cache and Archive search",
+                            "url": "https://cipher387.github.io/quickcacheandarchivesearch/",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
                     "name": "Dorking",
                     "children": [
                         {
@@ -691,6 +723,11 @@
                 {
                     "name": "GitHub",
                     "children": [
+                        {
+                            "name": "\ud83c\udf0d Github Code Search",
+                            "url": "https://cs.github.com",
+                            "type": "url"
+                        },
                         {
                             "name": "\ud83d\udcd2 Github Dorks",
                             "url": "https://github.com/techgaun/github-dorks",
@@ -960,92 +997,109 @@
                     "name": "America \ud83c\udf0e",
                     "children": [
                         {
-                            "name": "USA \ud83c\uddfa\ud83c\uddf8",
+                            "name": "North America",
                             "children": [
                                 {
-                                    "name": "Emails",
+                                    "name": "USA \ud83c\uddfa\ud83c\uddf8",
                                     "children": [
                                         {
-                                            "name": "\ud83c\udf0d ThatsThem",
-                                            "url": "https://thatsthem.com/reverse-email-lookup",
-                                            "type": "url"
-                                        }
-                                    ],
-                                    "type": "folder"
-                                },
-                                {
-                                    "name": "Phones",
-                                    "children": [
-                                        {
-                                            "name": "\ud83c\udf0d FreeCarrierLookup",
-                                            "url": "https://freecarrierlookup.com",
-                                            "type": "url"
-                                        },
-                                        {
-                                            "name": "\ud83c\udf0d Phone Validator",
-                                            "url": "https://www.phonevalidator.com",
-                                            "type": "url"
-                                        },
-                                        {
-                                            "name": "\ud83c\udf0d Phonerator",
-                                            "url": "https://www.martinvigo.com/tools/phonerator/",
-                                            "type": "url"
-                                        },
-                                        {
-                                            "name": "\ud83c\udf0d ThatsThem",
-                                            "url": "https://thatsthem.com/reverse-phone-lookup",
-                                            "type": "url"
-                                        },
-                                        {
-                                            "name": "\ud83c\udf0d\ud83e\ude99 USPhoneBook",
-                                            "url": "https://www.usphonebook.com",
-                                            "type": "url"
-                                        }
-                                    ],
-                                    "type": "folder"
-                                },
-                                {
-                                    "name": "Transportation",
-                                    "children": [
-                                        {
-                                            "name": "Licence plates",
+                                            "name": "Emails",
                                             "children": [
                                                 {
-                                                    "name": "\ud83c\udf0d InfoTracer",
-                                                    "url": "https://infotracer.com",
+                                                    "name": "\ud83c\udf0d ThatsThem",
+                                                    "url": "https://thatsthem.com/reverse-email-lookup",
                                                     "type": "url"
                                                 }
                                             ],
                                             "type": "folder"
                                         },
                                         {
-                                            "name": "Trains",
+                                            "name": "Phones",
                                             "children": [
                                                 {
-                                                    "name": "\ud83c\udf0d Amtrack Track your Train",
-                                                    "url": "https://www.amtrak.com/track-your-train.html",
+                                                    "name": "\ud83c\udf0d FreeCarrierLookup",
+                                                    "url": "https://freecarrierlookup.com",
                                                     "type": "url"
                                                 },
                                                 {
-                                                    "name": "\ud83c\udf0d Railroad Casualties Map",
-                                                    "url": "https://fragis.fra.dot.gov/Trespassers/",
+                                                    "name": "\ud83c\udf0d Phone Validator",
+                                                    "url": "https://www.phonevalidator.com",
                                                     "type": "url"
                                                 },
                                                 {
-                                                    "name": "\ud83d\udcd2 Railroad Map Depot",
-                                                    "url": "https://stb.maps.arcgis.com/home/index.html",
+                                                    "name": "\ud83c\udf0d Phonerator",
+                                                    "url": "https://www.martinvigo.com/tools/phonerator/",
                                                     "type": "url"
                                                 },
                                                 {
-                                                    "name": "\ud83c\udf0d Railroad Safety Map",
-                                                    "url": "https://fragis.fra.dot.gov/GISFRASafety/",
+                                                    "name": "\ud83c\udf0d ThatsThem",
+                                                    "url": "https://thatsthem.com/reverse-phone-lookup",
                                                     "type": "url"
+                                                },
+                                                {
+                                                    "name": "\ud83c\udf0d\ud83e\ude99 USPhoneBook",
+                                                    "url": "https://www.usphonebook.com",
+                                                    "type": "url"
+                                                }
+                                            ],
+                                            "type": "folder"
+                                        },
+                                        {
+                                            "name": "Transportation",
+                                            "children": [
+                                                {
+                                                    "name": "Licence plates",
+                                                    "children": [
+                                                        {
+                                                            "name": "\ud83c\udf0d InfoTracer",
+                                                            "url": "https://infotracer.com",
+                                                            "type": "url"
+                                                        }
+                                                    ],
+                                                    "type": "folder"
+                                                },
+                                                {
+                                                    "name": "Trains",
+                                                    "children": [
+                                                        {
+                                                            "name": "\ud83c\udf0d Amtrack Track your Train",
+                                                            "url": "https://www.amtrak.com/track-your-train.html",
+                                                            "type": "url"
+                                                        },
+                                                        {
+                                                            "name": "\ud83c\udf0d Railroad Casualties Map",
+                                                            "url": "https://fragis.fra.dot.gov/Trespassers/",
+                                                            "type": "url"
+                                                        },
+                                                        {
+                                                            "name": "\ud83d\udcd2 Railroad Map Depot",
+                                                            "url": "https://stb.maps.arcgis.com/home/index.html",
+                                                            "type": "url"
+                                                        },
+                                                        {
+                                                            "name": "\ud83c\udf0d Railroad Safety Map",
+                                                            "url": "https://fragis.fra.dot.gov/GISFRASafety/",
+                                                            "type": "url"
+                                                        }
+                                                    ],
+                                                    "type": "folder"
                                                 }
                                             ],
                                             "type": "folder"
                                         }
                                     ],
                                     "type": "folder"
+                                }
+                            ],
+                            "type": "folder"
+                        },
+                        {
+                            "name": "South America",
+                            "children": [
+                                {
+                                    "name": "\ud83c\udf0d P\u00e1ginas Amarillas (Yellow pages)",
+                                    "url": "https://www.paginasamarillas.com",
+                                    "type": "url"
                                 }
                             ],
                             "type": "folder"
@@ -1163,6 +1217,17 @@
                             "type": "folder"
                         },
                         {
+                            "name": "Poland \ud83c\uddf5\ud83c\uddf1",
+                            "children": [
+                                {
+                                    "name": "\ud83c\udf0d\ud83d\udcd2 Otwarte Zrodla",
+                                    "url": "https://otwartezrodla.pl/",
+                                    "type": "url"
+                                }
+                            ],
+                            "type": "folder"
+                        },
+                        {
                             "name": "Russia \ud83c\uddf7\ud83c\uddfa",
                             "children": [
                                 {
@@ -1180,6 +1245,17 @@
                             "type": "folder"
                         },
                         {
+                            "name": "Spain \ud83c\uddea\ud83c\uddf8",
+                            "children": [
+                                {
+                                    "name": "\ud83c\udf0d Cadastre",
+                                    "url": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCBusqueda.aspx",
+                                    "type": "url"
+                                }
+                            ],
+                            "type": "folder"
+                        },
+                        {
                             "name": "Switzerland \ud83c\udde8\ud83c\udded",
                             "children": [
                                 {
@@ -1189,9 +1265,25 @@
                                 }
                             ],
                             "type": "folder"
+                        },
+                        {
+                            "name": "Turkey \ud83c\uddf9\ud83c\uddf7",
+                            "children": [
+                                {
+                                    "name": "\ud83c\udf0d Yellow&White pages",
+                                    "url": "http://www.ttrehber.turktelekom.com.tr/?type=white",
+                                    "type": "url"
+                                }
+                            ],
+                            "type": "folder"
                         }
                     ],
                     "type": "folder"
+                },
+                {
+                    "name": "\ud83c\udf0d\ud83d\udcd2 Worldwide OSINT Tools Map",
+                    "url": "https://cipher387.github.io/osintmap/",
+                    "type": "url"
                 }
             ],
             "type": "folder"
