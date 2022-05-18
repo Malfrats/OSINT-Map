@@ -115,34 +115,30 @@
                 "🌍 Afrinic WhoIS": "https://www.afrinic.net/whois"
             },
             "America 🌎" : {
-                "North America":{
-                    "USA 🇺🇸": {
-                        "Phones": {
-                            "🌍🪙 USPhoneBook": "https://www.usphonebook.com",
-                            "🌍 ThatsThem": "https://thatsthem.com/reverse-phone-lookup",
-                            "🌍 Phone Validator": "https://www.phonevalidator.com",
-                            "🌍 Phonerator": "https://www.martinvigo.com/tools/phonerator/",
-                            "🌍 FreeCarrierLookup": "https://freecarrierlookup.com"
+                "USA 🇺🇸": {
+                    "Phones": {
+                        "🌍🪙 USPhoneBook": "https://www.usphonebook.com",
+                        "🌍 ThatsThem": "https://thatsthem.com/reverse-phone-lookup",
+                        "🌍 Phone Validator": "https://www.phonevalidator.com",
+                        "🌍 Phonerator": "https://www.martinvigo.com/tools/phonerator/",
+                        "🌍 FreeCarrierLookup": "https://freecarrierlookup.com"
+                    },
+                    "Emails": {
+                        "🌍 ThatsThem": "https://thatsthem.com/reverse-email-lookup"
+                    },
+                    "Transportation": {
+                        "Trains": {
+                            "📒 Railroad Map Depot": "https://stb.maps.arcgis.com/home/index.html",
+                            "🌍 Railroad Safety Map": "https://fragis.fra.dot.gov/GISFRASafety/",
+                            "🌍 Railroad Casualties Map": "https://fragis.fra.dot.gov/Trespassers/",
+                            "🌍 Amtrack Track your Train": "https://www.amtrak.com/track-your-train.html"
                         },
-                        "Emails": {
-                            "🌍 ThatsThem": "https://thatsthem.com/reverse-email-lookup"
-                        },
-                        "Transportation": {
-                            "Trains": {
-                                "📒 Railroad Map Depot": "https://stb.maps.arcgis.com/home/index.html",
-                                "🌍 Railroad Safety Map": "https://fragis.fra.dot.gov/GISFRASafety/",
-                                "🌍 Railroad Casualties Map": "https://fragis.fra.dot.gov/Trespassers/",
-                                "🌍 Amtrack Track your Train": "https://www.amtrak.com/track-your-train.html"
-                            },
-                            "Licence plates": {
-                                "🌍 InfoTracer": "https://infotracer.com"
-                            }
+                        "Licence plates": {
+                            "🌍 InfoTracer": "https://infotracer.com"
                         }
                     }
                 },
-                "South America": {
-                    "🌍 Páginas Amarillas (Yellow pages)": "https://www.paginasamarillas.com"
-                }
+                "🌍 South america's yellow pages": "https://www.paginasamarillas.com"
             },
             "Asia / Oceania 🌏": {
                 "North Korea 🇰🇵": {
