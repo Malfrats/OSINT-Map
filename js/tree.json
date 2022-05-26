@@ -118,11 +118,6 @@
                             "name": "\ud83c\udf0d SecurityTrails",
                             "url": "https://securitytrails.com",
                             "type": "url"
-                        },
-                        {
-                            "name": "\ud83c\udf0d Spyse",
-                            "url": "https://spyse.com",
-                            "type": "url"
                         }
                     ],
                     "type": "folder"
@@ -234,11 +229,6 @@
                 {
                     "name": "Maps",
                     "children": [
-                        {
-                            "name": "\ud83c\udf0d 360\u56fe\u7247",
-                            "url": "https://images.so.com/",
-                            "type": "url"
-                        },
                         {
                             "name": "\ud83c\udf0d Baidu Maps",
                             "url": "https://map.baidu.com",
@@ -851,6 +841,11 @@
                             "name": "\ud83d\udce6 Snooper",
                             "url": "https://github.com/NicholasDollick/Snooper",
                             "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d\ud83e\ude99 SocialGrep",
+                            "url": "https://socialgrep.com",
+                            "type": "url"
                         }
                     ],
                     "type": "folder"
@@ -1109,6 +1104,17 @@
                                 {
                                     "name": "\ud83d\udcd2 Download pan.baidu files",
                                     "url": "https://gist.github.com/mfiro/b0bdf5f4054a34c36bf3a8e6d9bf5397#gistcomment-4013461",
+                                    "type": "url"
+                                }
+                            ],
+                            "type": "folder"
+                        },
+                        {
+                            "name": "Japan \ud83c\uddef\ud83c\uddf5",
+                            "children": [
+                                {
+                                    "name": "\ud83d\udcd2 OSINT Ressources for Japan",
+                                    "url": "https://github.com/Coordinate-Cat/OSINT-JAPAN#osint-japan",
                                     "type": "url"
                                 }
                             ],

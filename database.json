@@ -154,6 +154,9 @@
                 },
                 "China 🇨🇳": {
                     "📒 Download pan.baidu files": "https://gist.github.com/mfiro/b0bdf5f4054a34c36bf3a8e6d9bf5397#gistcomment-4013461"
+                },
+                "Japan 🇯🇵": {
+                    "📒 OSINT Ressources for Japan": "https://github.com/Coordinate-Cat/OSINT-JAPAN#osint-japan"
                 }
             },
             "Antarctic 🇦🇶": {},
@@ -199,7 +202,6 @@
             "🌍 ScamSearch": "https://scamsearch.io",
             "🌍 Hunter": "https://hunter.io",
             "DNS": {
-                "🌍 Spyse": "https://spyse.com",
                 "🌍 SecurityTrails": "https://securitytrails.com",
                 "🌍 DNSHistory": "http://dnshistory.org"
             },
@@ -230,10 +232,10 @@
                 "🌍 Rutmap": "https://www.rutmap.com/",
                 "🌍 Overpass Turbo": "https://overpass-turbo.eu",
                 "🌍 Baidu Maps": "https://map.baidu.com",
-                "🌍 360图片": "https://images.so.com/",
                 "🌍 Sogou": "https://pic.sogou.com",
                 "🌍📦 Google Earth": "https://www.google.com/earth/versions/"
-            }        },
+            }        
+        },
         "Images 🖼": {
             "Reverse Image Search": {
                 "Face Search": {
