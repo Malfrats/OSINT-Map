@@ -218,7 +218,8 @@
             "GEOINT Tips": {
                 "📒 Intersections on Google Maps": "https://twitter.com/SEINT_pl/status/1493484660902576128",
                 "📒 Geolocation with Mountains": "https://www.youtube.com/watch?v=vNu2X7aCMkU",
-                "📒 Identifying voltage levels of eletric lines": "https://twitter.com/engineers_feed/status/1522799064852537344"
+                "📒 Identifying voltage levels of eletric lines": "https://twitter.com/engineers_feed/status/1522799064852537344",
+                "📒🌍 GeoHints": "https://www.geohints.com"
             },
             "🌍 InstaHunt": "https://instahunt.co",
             "🌍🪙 HuntIntel": "https://www.huntintel.io",
@@ -288,6 +289,9 @@
                 "DuckDuckGo": {
                     "📒 goDuck": "https://github.com/d34dfr4m3/goDuck"
                 }
+            },
+            "Videos": {
+                "🌍 Youtube Subtitles search": "https://filmot.com/"
             },
             "Caches": {
                 "🌍 Cache and Archive search": "https://cipher387.github.io/quickcacheandarchivesearch/"

@@ -199,6 +199,11 @@
                     "name": "GEOINT Tips",
                     "children": [
                         {
+                            "name": "\ud83d\udcd2\ud83c\udf0d GeoHints",
+                            "url": "https://www.geohints.com",
+                            "type": "url"
+                        },
+                        {
                             "name": "\ud83d\udcd2 Geolocation with Mountains",
                             "url": "https://www.youtube.com/watch?v=vNu2X7aCMkU",
                             "type": "url"
@@ -657,6 +662,17 @@
                                 }
                             ],
                             "type": "folder"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
+                    "name": "Videos",
+                    "children": [
+                        {
+                            "name": "\ud83c\udf0d Youtube Subtitles search",
+                            "url": "https://filmot.com/",
+                            "type": "url"
                         }
                     ],
                     "type": "folder"
