@@ -150,13 +150,14 @@
                 "South Korea 🇰🇷": {
                     "Map": {
                         "🌍 Kakao Map": "https://map.kakao.com"
+                        "🌍 Naver Map": "https://map.naver.com"
                     }
                 },
                 "China 🇨🇳": {
                     "📒 Download pan.baidu files": "https://gist.github.com/mfiro/b0bdf5f4054a34c36bf3a8e6d9bf5397#gistcomment-4013461"
                 },
                 "Japan 🇯🇵": {
-                    "📒 OSINT Ressources for Japan": "https://github.com/Coordinate-Cat/OSINT-JAPAN#osint-japan"
+                    "📒 OSINT Resources for Japan": "https://github.com/Coordinate-Cat/OSINT-JAPAN#osint-japan"
                 }
             },
             "Antarctic 🇦🇶": {},
@@ -199,6 +200,7 @@
             "Subdomains": {
                 "📦 SubFinder": "https://github.com/projectdiscovery/subfinder"
             },
+            "🌍 Criminal IP": "https://www.criminalip.io/en",
             "🌍 ScamSearch": "https://scamsearch.io",
             "🌍 Hunter": "https://hunter.io",
             "DNS": {
