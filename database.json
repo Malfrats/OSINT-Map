@@ -260,7 +260,8 @@
                 "🌍 Image Identity": "https://www.imageidentify.com",
                 "🌍 SauceNAO": "https://saucenao.com",
                 "📦 Google Lens": "https://lens.google",
-                "🧩 Fake New Debunker": "https://chrome.google.com/webstore/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe"
+                "🧩 Fake New Debunker": "https://chrome.google.com/webstore/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe",
+                "💵🌍 GVision": "https://gvision.streamlit.app/"
             },
             "Tools": {
                 "🌍 ImgOps": "http://imgops.com/upload",
