@@ -7,6 +7,7 @@
             "📦 Marple": "https://github.com/soxoj/marple"
         },
         "Phone Numbers 📞": {
+            "🌍 OSINT Industries": "https://osint.industries",
             "📦 Ignorant": "https://github.com/megadose/ignorant",
             "📒 Phones Country Codes": "https://en.wikipedia.org/wiki/List_of_country_calling_codes"
         },
@@ -18,10 +19,11 @@
             "📒 Person Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Person/Person%20OSINT%20Attack%20Surface.pdf"
         },
         "Email Addresses 📬": {
+            "🌍 OSINT Industries": "https://osint.industries",
             "📦 holehe": "https://github.com/megadose/holehe",
             "📦 GHunt": "https://github.com/mxrch/GHunt",
             "📦 MailCat": "https://github.com/sharsil/mailcat",
-            "🌍🪙 epieos": "https://tools.epieos.com/",
+            "🌍🪙 Epieos": "https://tools.epieos.com/",
             "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Email/EMAIL%20OSINT%20Attack%20Surface.pdf",
             "🌍 Verify-Email": "https://verify-email.org",
             "📦 Censored Domain finder": "https://github.com/novitae/Aet-s-Tools/tree/main/EmDoFi"
