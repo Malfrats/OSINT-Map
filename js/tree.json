@@ -165,7 +165,7 @@
                     "type": "url"
                 },
                 {
-                    "name": "\ud83c\udf0d\ud83e\ude99 epieos",
+                    "name": "\ud83c\udf0d\ud83e\ude99 Epieos",
                     "url": "https://tools.epieos.com/",
                     "type": "url"
                 },
@@ -182,6 +182,11 @@
                 {
                     "name": "\ud83d\udce6 MailCat",
                     "url": "https://github.com/sharsil/mailcat",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\udf0d OSINT Industries",
+                    "url": "https://osint.industries",
                     "type": "url"
                 },
                 {
@@ -375,6 +380,11 @@
                         {
                             "name": "\ud83d\udce6 Google Lens",
                             "url": "https://lens.google",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83d\udcb5\ud83c\udf0d GVision",
+                            "url": "https://gvision.streamlit.app/",
                             "type": "url"
                         },
                         {
@@ -586,6 +596,11 @@
                     "type": "url"
                 },
                 {
+                    "name": "\ud83c\udf0d OSINT Industries",
+                    "url": "https://osint.industries",
+                    "type": "url"
+                },
+                {
                     "name": "\ud83d\udcd2 Phones Country Codes",
                     "url": "https://en.wikipedia.org/wiki/List_of_country_calling_codes",
                     "type": "url"
@@ -729,6 +744,11 @@
                 {
                     "name": "GitHub",
                     "children": [
+                        {
+                            "name": "\ud83d\udce6 GitFive",
+                            "url": "https://github.com/mxrch/GitFive",
+                            "type": "url"
+                        },
                         {
                             "name": "\ud83c\udf0d Github Code Search",
                             "url": "https://cs.github.com",
