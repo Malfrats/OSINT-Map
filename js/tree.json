@@ -474,6 +474,11 @@
             "name": "IP Addresses \ud83d\udd22",
             "children": [
                 {
+                    "name": "\ud83c\udf0d\ud83e\ude99 AbuseIPDB",
+                    "url": "https://www.abuseipdb.com",
+                    "type": "url"
+                },
+                {
                     "name": "\ud83c\udf0d InfoByIP",
                     "url": "https://www.infobyip.com/",
                     "type": "url"
@@ -1462,6 +1467,11 @@
                 {
                     "name": "\ud83d\udce6 sherlock",
                     "url": "https://github.com/sherlock-project/sherlock",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\udf0d WhatsMyName",
+                    "url": "https://whatsmyname.app",
                     "type": "url"
                 }
             ],

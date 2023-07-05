@@ -1,6 +1,7 @@
 {
     "OSINT Map": {
         "Usernames 🏷": {
+            "🌍 WhatsMyName": "https://whatsmyname.app",
             "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Username/USERNAME%20OSINT%20Attack%20Surface.pdf",
             "📦 sherlock": "https://github.com/sherlock-project/sherlock",
             "📦 Maigret": "https://github.com/soxoj/maigret",
@@ -352,7 +353,8 @@
                 "🌍❗️ Grabify": "https://grabify.link",
                 "🌍❗️ IPLogger": "https://iplogger.org"
             },
-            "📒 IP Address Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/IP/IP%20Address%20OSINT%20Attack%20Surface.pdf"
+            "📒 IP Address Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/IP/IP%20Address%20OSINT%20Attack%20Surface.pdf",
+            "🌍🪙 AbuseIPDB": "https://www.abuseipdb.com"
         },
         "Military 🪖": {
             "Ships": {
