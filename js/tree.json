@@ -69,7 +69,7 @@
                             "name": "Showing content",
                             "children": [
                                 {
-                                    "name": "\ud83c\udf0d\ud83e\ude99 _IntelligenceX",
+                                    "name": "\ud83c\udf0d\ud83e\ude99 IntelligenceX",
                                     "url": "https://intelx.io",
                                     "type": "url"
                                 },
@@ -359,6 +359,11 @@
                         {
                             "name": "Face Search",
                             "children": [
+                                {
+                                    "name": "\ud83c\udf0d FaceCheck",
+                                    "url": "https://facecheck.id",
+                                    "type": "url"
+                                },
                                 {
                                     "name": "\ud83d\udcb5\ud83c\udf0d PimEyes",
                                     "url": "https://pimeyes.com/en",

@@ -32,7 +32,7 @@
             "Leaked Database": {
                 "Showing content": {
                     "💵🌍 Leak-Lookup": "https://leak-lookup.com",
-                    "🌍🪙 _IntelligenceX": "https://intelx.io"
+                    "🌍🪙 IntelligenceX": "https://intelx.io"
                 },
                 "🌍 HaveIBeenPwned": "https://haveibeenpwned.com",
                 "🌍🪙 DeHashed": "https://www.dehashed.com"
@@ -243,7 +243,8 @@
         "Images 🖼": {
             "Reverse Image Search": {
                 "Face Search": {
-                    "💵🌍 PimEyes": "https://pimeyes.com/en"
+                    "💵🌍 PimEyes": "https://pimeyes.com/en",
+                    "🌍 FaceCheck": "https://facecheck.id"
                 },
                 "Search by terms": {
                     "🌍 Imgur Search": "https://imgur.com/search"
