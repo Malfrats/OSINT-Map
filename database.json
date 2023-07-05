@@ -38,6 +38,8 @@
                 "🌍 HaveIBeenPwned": "https://haveibeenpwned.com",
                 "🌍🪙 DeHashed": "https://www.dehashed.com"
             },
+            "🌍🪙 Epieos": "https://tools.epieos.com/",
+            "🌍 OSINT Industries": "https://osint.industries",
             "💵🌍 Lampyre.io": "https://lampyre.io"
         },
         "Social media 👥": {
@@ -211,6 +213,7 @@
             },
             "🌍🪙 Shodan": "https://www.shodan.io",
             "🌍🪙 Censys": "https://search.censys.io",
+            "🌍🪙 GreyNoise": "https://viz.greynoise.io",
             "Certificates": {
                 "🌍 crt.sh": "https://crt.sh"
             },
@@ -237,6 +240,8 @@
             "Maps": {
                 "🌍 Rutmap": "https://www.rutmap.com/",
                 "🌍 Overpass Turbo": "https://overpass-turbo.eu",
+                "🌍 Bellingcat OSM Search": "https://osm-search.bellingcat.com",
+                "🌍 Bellingcat OSM Search (how to)": "https://www.bellingcat.com/resources/how-tos/2023/05/08/finding-geolocation-leads-with-bellingcats-openstreetmap-search-tool/",
                 "🌍 Baidu Maps": "https://map.baidu.com",
                 "🌍 Sogou": "https://pic.sogou.com",
                 "🌍📦 Google Earth": "https://www.google.com/earth/versions/"
@@ -314,7 +319,14 @@
         "URLs 🔗": {
             "🌍 Unfurl": "https://dfir.blog/unfurl",
             "📒 Shortlink verification": "https://seintpl.github.io/osint/short-links-verification-cheatsheet",
-            "🌍 Where does this link goes": "https://wheregoes.com"
+            "🌍 Where does this link goes": "https://wheregoes.com",
+            "Archives": {
+                "🌍 Wayback Machine": "https://archive.org/web",
+                "🌍 Archive.today": "https://archive.today",
+                "🌍 WebCite": "https://www.webcitation.org",
+                "🌍 Google Cache": "https://cachedview.com",
+                "🌍 Wikiwix Archive": "https://archive.wikiwix.com"
+            }
         },
         "Useful Software 🔧": {
             "Data visualisation": {
@@ -355,7 +367,10 @@
                 "🌍❗️ IPLogger": "https://iplogger.org"
             },
             "📒 IP Address Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/IP/IP%20Address%20OSINT%20Attack%20Surface.pdf",
-            "🌍🪙 AbuseIPDB": "https://www.abuseipdb.com"
+            "🌍🪙 AbuseIPDB": "https://www.abuseipdb.com",
+            "🌍🪙 Shodan": "https://www.shodan.io",
+            "🌍🪙 Censys": "https://search.censys.io",
+            "🌍🪙 GreyNoise": "https://viz.greynoise.io"
         },
         "Military 🪖": {
             "Ships": {

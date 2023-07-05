@@ -48,6 +48,11 @@
             "name": "Data Lookup \ud83d\udd0d",
             "children": [
                 {
+                    "name": "\ud83c\udf0d\ud83e\ude99 Epieos",
+                    "url": "https://tools.epieos.com/",
+                    "type": "url"
+                },
+                {
                     "name": "\ud83d\udcb5\ud83c\udf0d Lampyre.io",
                     "url": "https://lampyre.io",
                     "type": "url"
@@ -83,6 +88,11 @@
                         }
                     ],
                     "type": "folder"
+                },
+                {
+                    "name": "\ud83c\udf0d OSINT Industries",
+                    "url": "https://osint.industries",
+                    "type": "url"
                 }
             ],
             "type": "folder"
@@ -126,6 +136,11 @@
                         }
                     ],
                     "type": "folder"
+                },
+                {
+                    "name": "\ud83c\udf0d\ud83e\ude99 GreyNoise",
+                    "url": "https://viz.greynoise.io",
+                    "type": "url"
                 },
                 {
                     "name": "\ud83c\udf0d Hunter",
@@ -247,6 +262,16 @@
                         {
                             "name": "\ud83c\udf0d Baidu Maps",
                             "url": "https://map.baidu.com",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d Bellingcat OSM Search",
+                            "url": "https://osm-search.bellingcat.com",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d Bellingcat OSM Search (how to)",
+                            "url": "https://www.bellingcat.com/resources/how-tos/2023/05/08/finding-geolocation-leads-with-bellingcats-openstreetmap-search-tool/",
                             "type": "url"
                         },
                         {
@@ -484,6 +509,16 @@
                     "type": "url"
                 },
                 {
+                    "name": "\ud83c\udf0d\ud83e\ude99 Censys",
+                    "url": "https://search.censys.io",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\udf0d\ud83e\ude99 GreyNoise",
+                    "url": "https://viz.greynoise.io",
+                    "type": "url"
+                },
+                {
                     "name": "\ud83c\udf0d InfoByIP",
                     "url": "https://www.infobyip.com/",
                     "type": "url"
@@ -522,6 +557,11 @@
                 {
                     "name": "\ud83d\udcd2 IP Subnet by regions",
                     "url": "https://github.com/ipverse/rir-ip",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83c\udf0d\ud83e\ude99 Shodan",
+                    "url": "https://www.shodan.io",
                     "type": "url"
                 }
             ],
@@ -1396,6 +1436,37 @@
         {
             "name": "URLs \ud83d\udd17",
             "children": [
+                {
+                    "name": "Archives",
+                    "children": [
+                        {
+                            "name": "\ud83c\udf0d Archive.today",
+                            "url": "https://archive.today",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d Google Cache",
+                            "url": "https://cachedview.com",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d Wayback Machine",
+                            "url": "https://archive.org/web",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d WebCite",
+                            "url": "https://www.webcitation.org",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d Wikiwix Archive",
+                            "url": "https://archive.wikiwix.com",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
                 {
                     "name": "\ud83d\udcd2 Shortlink verification",
                     "url": "https://seintpl.github.io/osint/short-links-verification-cheatsheet",
