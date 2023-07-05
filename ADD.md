@@ -5,6 +5,7 @@
 - **Go in `/database.json`**
 - **Edit the file** then **save it**.
   - _If you want your project to be merged, follow the rules and tutorial following this part._
+- **Launch** the file `update_tree.py` to update the tree with your new entries
 - Submit a **pull request**, and wait for your project being merged to Malfrat's OSINT MAP !
 ## 📏 Rules:
 Every pull request will be reviewed, and if it does not meet the following guidelines, will be declined.
