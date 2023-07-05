@@ -210,8 +210,9 @@
                 "🌍 DNSHistory": "http://dnshistory.org"
             },
             "🌍🪙 Shodan": "https://www.shodan.io",
+            "🌍🪙 Censys": "https://search.censys.io",
             "Certificates": {
-                "🌍 crt.sh": "https://crt.sh/"
+                "🌍 crt.sh": "https://crt.sh"
             },
             "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Websites/Website%20OSINT%20Attack%20Surface.pdf"
         },

@@ -96,11 +96,16 @@
                     "type": "url"
                 },
                 {
+                    "name": "\ud83c\udf0d\ud83e\ude99 Censys",
+                    "url": "https://search.censys.io",
+                    "type": "url"
+                },
+                {
                     "name": "Certificates",
                     "children": [
                         {
                             "name": "\ud83c\udf0d crt.sh",
-                            "url": "https://crt.sh/",
+                            "url": "https://crt.sh",
                             "type": "url"
                         }
                     ],
