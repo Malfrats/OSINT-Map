@@ -49,8 +49,7 @@
                 "🌍 TweetBeaver": "https://tweetbeaver.com",
                 "Visualization 📊": {
                     "🌍 Twiangulate": "https://twiangulate.com/search/",
-                    "🌍 Hoaxy": "https://hoaxy.osome.iu.edu",
-                    "🌍 MentionApp": "https://analytics.mentionmapp.com"
+                    "🌍 Hoaxy": "https://hoaxy.osome.iu.edu"
                 },
                 "🌍🪙 SocialBearing": "https://socialbearing.com",
                 "Specific Locations 📍": {
@@ -70,7 +69,8 @@
             "Reddit": {
                 "🌍🪙 SocialGrep": "https://socialgrep.com",
                 "📦 Snooper": "https://github.com/NicholasDollick/Snooper",
-                "🌍 Reddective": "https://www.redective.com"
+                "🌍 Reddective": "https://www.redective.com",
+                "🌍 RedditMetis": "https://redditmetis.com"
             },
             "Discord": {
                 "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Discord/Discord%20OSINT%20Attack%20Surface.pdf",
@@ -158,9 +158,6 @@
                         "🌍 Kakao Map": "https://map.kakao.com"
                     }
                 },
-                "China 🇨🇳": {
-                    "📒 Download pan.baidu files": "https://gist.github.com/mfiro/b0bdf5f4054a34c36bf3a8e6d9bf5397#gistcomment-4013461"
-                },
                 "Japan 🇯🇵": {
                     "📒 OSINT Ressources for Japan": "https://github.com/Coordinate-Cat/OSINT-JAPAN#osint-japan"
                 }
@@ -171,9 +168,6 @@
                     "Individuals": {
                         "📦 DaProfiler": "https://github.com/TheRealDalunacrobate/DaProfiler",
                         "🌍 PagesBlanches": "https://www.pagesjaunes.fr/pagesblanches"
-                    },
-                    "Transportation": {
-                        "🌍 Raildar.fr": "http://www.raildar.fr/"
                     }
                 },
                 "Switzerland 🇨🇭": {
@@ -194,9 +188,6 @@
                 },
                 "Spain 🇪🇸": {
                     "🌍 Cadastre": "https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCBusqueda.aspx"
-                },
-                "Turkey 🇹🇷": {
-                    "🌍 Yellow&White pages": "http://www.ttrehber.turktelekom.com.tr/?type=white"
                 }
             },
             "🌍📒 Worldwide OSINT Tools Map": "https://cipher387.github.io/osintmap/"
@@ -271,8 +262,7 @@
                 "🌍 Image Identity": "https://www.imageidentify.com",
                 "🌍 SauceNAO": "https://saucenao.com",
                 "📦 Google Lens": "https://lens.google",
-                "🧩 Fake New Debunker": "https://chrome.google.com/webstore/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe",
-                "💵🌍 GVision": "https://gvision.streamlit.app/"
+                "🧩 Fake New Debunker": "https://chrome.google.com/webstore/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe"
             },
             "Tools": {
                 "🌍 ImgOps": "http://imgops.com/upload",
