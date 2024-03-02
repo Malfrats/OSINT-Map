@@ -115,7 +115,11 @@
                 "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Pinterest/Pinterest%20OSINT%20Attack%20Surface.pdf",
                 "📒 Bypass Login Popup": "https://mobile.twitter.com/ohshint_/status/1459737802296348673",
                 "📦 Pinterest Downloader": "https://github.com/limkokhole/pinterest-downloader"
+            },
+            "Other": {
+                "🔍🦜 Alfred OSINT": "https://github.com/Alfredredbird/alfred",
             }
+            
         },
         "Specific Regions 🏞": {
             "Africa 🌞": {
