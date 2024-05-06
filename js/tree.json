@@ -53,6 +53,11 @@
                     "type": "url"
                 },
                 {
+                    "name": "\ud83c\udf0d Hudson Rock",
+                    "url": "https://www.hudsonrock.com/threat-intelligence-cybercrime-tools",
+                    "type": "url"
+                },
+                {
                     "name": "\ud83d\udcb5\ud83c\udf0d Lampyre.io",
                     "url": "https://lampyre.io",
                     "type": "url"
@@ -415,11 +420,6 @@
                         {
                             "name": "\ud83d\udce6 Google Lens",
                             "url": "https://lens.google",
-                            "type": "url"
-                        },
-                        {
-                            "name": "\ud83d\udcb5\ud83c\udf0d GVision",
-                            "url": "https://gvision.streamlit.app/",
                             "type": "url"
                         },
                         {
@@ -900,6 +900,17 @@
                     "type": "folder"
                 },
                 {
+                    "name": "Other",
+                    "children": [
+                        {
+                            "name": "\ud83d\udd0d\ud83e\udd9c Alfred OSINT",
+                            "url": "https://github.com/Alfredredbird/alfred",
+                            "type": "url"
+                        }
+                    ],
+                    "type": "folder"
+                },
+                {
                     "name": "\ud83d\udcd2\u2757\ufe0f Password Recovery",
                     "url": "https://github.com/sinwindie/OSINT/blob/master/MISC/Account%20Knocking%20For%20Fun%20and%20OSINT.pdf",
                     "type": "url"
@@ -931,6 +942,11 @@
                         {
                             "name": "\ud83c\udf0d Reddective",
                             "url": "https://www.redective.com",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d RedditMetis",
+                            "url": "https://redditmetis.com",
                             "type": "url"
                         },
                         {
@@ -1038,11 +1054,6 @@
                                 {
                                     "name": "\ud83c\udf0d Hoaxy",
                                     "url": "https://hoaxy.osome.iu.edu",
-                                    "type": "url"
-                                },
-                                {
-                                    "name": "\ud83c\udf0d MentionApp",
-                                    "url": "https://analytics.mentionmapp.com",
                                     "type": "url"
                                 },
                                 {
@@ -1195,17 +1206,6 @@
                     "name": "Asia / Oceania \ud83c\udf0f",
                     "children": [
                         {
-                            "name": "China \ud83c\udde8\ud83c\uddf3",
-                            "children": [
-                                {
-                                    "name": "\ud83d\udcd2 Download pan.baidu files",
-                                    "url": "https://gist.github.com/mfiro/b0bdf5f4054a34c36bf3a8e6d9bf5397#gistcomment-4013461",
-                                    "type": "url"
-                                }
-                            ],
-                            "type": "folder"
-                        },
-                        {
                             "name": "Japan \ud83c\uddef\ud83c\uddf5",
                             "children": [
                                 {
@@ -1270,17 +1270,6 @@
                                         {
                                             "name": "\ud83c\udf0d PagesBlanches",
                                             "url": "https://www.pagesjaunes.fr/pagesblanches",
-                                            "type": "url"
-                                        }
-                                    ],
-                                    "type": "folder"
-                                },
-                                {
-                                    "name": "Transportation",
-                                    "children": [
-                                        {
-                                            "name": "\ud83c\udf0d Raildar.fr",
-                                            "url": "http://www.raildar.fr/",
                                             "type": "url"
                                         }
                                     ],
@@ -1351,17 +1340,6 @@
                                 {
                                     "name": "\ud83d\udce6 Swiss OSINT Toolkit",
                                     "url": "https://docs.google.com/spreadsheets/u/0/d/1LHP3gfppDBBPENffw9R7FrhpRxhmP0UhaLiklbQN7tA/htmlview",
-                                    "type": "url"
-                                }
-                            ],
-                            "type": "folder"
-                        },
-                        {
-                            "name": "Turkey \ud83c\uddf9\ud83c\uddf7",
-                            "children": [
-                                {
-                                    "name": "\ud83c\udf0d Yellow&White pages",
-                                    "url": "http://www.ttrehber.turktelekom.com.tr/?type=white",
                                     "type": "url"
                                 }
                             ],
