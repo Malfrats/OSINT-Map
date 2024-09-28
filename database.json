@@ -199,7 +199,8 @@
         },
         "Domains 📶": {
             "Subdomains": {
-                "📦 SubFinder": "https://github.com/projectdiscovery/subfinder"
+                "📦 SubFinder": "https://github.com/projectdiscovery/subfinder",
+                "🌍 SubDomainRadar.io": "https://subdomainradar.io"
             },
             "🌍 ScamSearch": "https://scamsearch.io",
             "🌍 Hunter": "https://hunter.io",
