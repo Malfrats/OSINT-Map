@@ -37,6 +37,11 @@
                     "type": "url"
                 },
                 {
+                    "name": "\ud83d\udcb5\ud83c\udf0d Osintly",
+                    "url": "https://osint.ly",
+                    "type": "url"
+                },
+                {
                     "name": "\ud83c\udf0d WalletExplorer",
                     "url": "https://www.walletexplorer.com",
                     "type": "url"
@@ -97,6 +102,11 @@
                 {
                     "name": "\ud83c\udf0d OSINT Industries",
                     "url": "https://osint.industries",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83d\udcb5\ud83c\udf0d Osintly",
+                    "url": "https://osint.ly",
                     "type": "url"
                 }
             ],
@@ -212,6 +222,11 @@
                 {
                     "name": "\ud83c\udf0d OSINT Industries",
                     "url": "https://osint.industries",
+                    "type": "url"
+                },
+                {
+                    "name": "\ud83d\udcb5\ud83c\udf0d Osintly",
+                    "url": "https://osint.ly",
                     "type": "url"
                 },
                 {

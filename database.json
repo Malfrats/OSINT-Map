@@ -21,6 +21,7 @@
         },
         "Email Addresses 📬": {
             "🌍 OSINT Industries": "https://osint.industries",
+            "💵🌍 Osintly": "https://osint.ly",
             "📦 holehe": "https://github.com/megadose/holehe",
             "📦 GHunt": "https://github.com/mxrch/GHunt",
             "📦 MailCat": "https://github.com/sharsil/mailcat",
@@ -40,6 +41,7 @@
             },
             "🌍🪙 Epieos": "https://tools.epieos.com/",
             "🌍 OSINT Industries": "https://osint.industries",
+            "💵🌍 Osintly": "https://osint.ly",
             "💵🌍 Lampyre.io": "https://lampyre.io",
             "🌍 Hudson Rock": "https://www.hudsonrock.com/threat-intelligence-cybercrime-tools"
         },
@@ -334,7 +336,8 @@
         },
         "Cryptocurrencies 📈": {
             "🌍 WalletExplorer": "https://www.walletexplorer.com",
-            "🌍 BlockExplorer": "https://blockexplorer.com"
+            "🌍 BlockExplorer": "https://blockexplorer.com",
+            "💵🌍 Osintly": "https://osint.ly"
         },
         "Transportation 🚂": {
             "Planes ✈️": {
