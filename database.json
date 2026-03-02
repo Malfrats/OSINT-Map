@@ -161,10 +161,11 @@
                 "South Korea 🇰🇷": {
                     "Map": {
                         "🌍 Kakao Map": "https://map.kakao.com"
+                        "🌍 Naver Map": "https://map.naver.com"
                     }
                 },
                 "Japan 🇯🇵": {
-                    "📒 OSINT Ressources for Japan": "https://github.com/Coordinate-Cat/OSINT-JAPAN#osint-japan"
+                    "📒 OSINT Resources for Japan": "https://github.com/Coordinate-Cat/OSINT-JAPAN#osint-japan"
                 }
             },
             "Antarctic 🇦🇶": {},
@@ -201,6 +202,7 @@
             "Subdomains": {
                 "📦 SubFinder": "https://github.com/projectdiscovery/subfinder"
             },
+            "🌍 Criminal IP": "https://www.criminalip.io/en",
             "🌍 ScamSearch": "https://scamsearch.io",
             "🌍 Hunter": "https://hunter.io",
             "DNS": {
