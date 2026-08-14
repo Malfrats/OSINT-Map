@@ -48,6 +48,7 @@
                 "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Twitter/Twitter%20OSINT%20Attack%20Surface.pdf",
                 "🌍 Twitter's Dorking Form": "https://twitter.com/search-advanced",
                 "🌍 TweetBeaver": "https://tweetbeaver.com",
+                "📦🪙 Xquik": "https://github.com/Xquik-dev/x-twitter-scraper",
                 "Visualization 📊": {
                     "🌍 Twiangulate": "https://twiangulate.com/search/",
                     "🌍 Hoaxy": "https://hoaxy.osome.iu.edu"
@@ -82,7 +83,7 @@
                 "📒 Attack Surface": "https://github.com/sinwindie/OSINT/blob/master/Youtube/Youtube%20OSINT%20Attack%20Surface.pdf"
             },
             "📒❗️ Password Recovery": "https://github.com/sinwindie/OSINT/blob/master/MISC/Account%20Knocking%20For%20Fun%20and%20OSINT.pdf",
-            "GitHub" : {
+            "GitHub": {
                 "📦 GitFive": "https://github.com/mxrch/GitFive",
                 "📦 ZEN": "https://github.com/s0md3v/Zen",
                 "📒 Github Dorks": "https://github.com/techgaun/github-dorks",
@@ -120,13 +121,12 @@
             "Other": {
                 "🔍🦜 Alfred OSINT": "https://github.com/Alfredredbird/alfred"
             }
-            
         },
         "Specific Regions 🏞": {
             "Africa 🌞": {
                 "🌍 Afrinic WhoIS": "https://www.afrinic.net/whois"
             },
-            "America 🌎" : {
+            "America 🌎": {
                 "USA 🇺🇸": {
                     "Phones": {
                         "🌍🪙 USPhoneBook": "https://www.usphonebook.com",
@@ -241,7 +241,7 @@
                 "🌍 Baidu Maps": "https://map.baidu.com",
                 "🌍 Sogou": "https://pic.sogou.com",
                 "🌍📦 Google Earth": "https://www.google.com/earth/versions/"
-            }        
+            }
         },
         "Images 🖼": {
             "Reverse Image Search": {
@@ -338,7 +338,7 @@
         },
         "Transportation 🚂": {
             "Planes ✈️": {
-                "🌍🪙 FlightRadar24": "https://www.flightradar24.com" 
+                "🌍🪙 FlightRadar24": "https://www.flightradar24.com"
             },
             "Ships ⛵️": {
                 "🌍🪙 MarineTraffic": "https://www.marinetraffic.com/",
@@ -348,7 +348,7 @@
                 "🌍 Openrailway Map": "https://www.openrailwaymap.org",
                 "📒 Railway Cams": "https://www.railserve.com/RailCams/"
             },
-            "License Plates 🪧" : {
+            "License Plates 🪧": {
                 "🌍 PlatesMania": "http://platesmania.com/?&lang=en"
             }
         },
