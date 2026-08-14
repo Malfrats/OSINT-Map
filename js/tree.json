@@ -1063,6 +1063,11 @@
                                 }
                             ],
                             "type": "folder"
+                        },
+                        {
+                            "name": "\ud83d\udce6\ud83e\ude99 Xquik",
+                            "url": "https://github.com/Xquik-dev/x-twitter-scraper",
+                            "type": "url"
                         }
                     ],
                     "type": "folder"
