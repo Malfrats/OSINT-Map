@@ -395,6 +395,11 @@
                             "name": "Face Search",
                             "children": [
                                 {
+                                    "name": "\ud83d\udcb5\ud83c\udf0d Face2social",
+                                    "url": "https://face2social.com",
+                                    "type": "url"
+                                },
+                                {
                                     "name": "\ud83c\udf0d FaceCheck",
                                     "url": "https://facecheck.id",
                                     "type": "url"
