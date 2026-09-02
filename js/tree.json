@@ -5,6 +5,11 @@
             "name": "Companies \ud83c\udfec",
             "children": [
                 {
+                    "name": "\ud83c\udf0d Company Records",
+                    "url": "https://records.knowyourcustomer.com/",
+                    "type": "url"
+                },
+                {
                     "name": "\ud83d\udcd2 Dorking Tip",
                     "url": "https://twitter.com/OSINTcda/status/1493808415277150208",
                     "type": "url"
