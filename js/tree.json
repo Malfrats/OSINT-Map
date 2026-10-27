@@ -1451,6 +1451,11 @@
                     "type": "folder"
                 },
                 {
+                    "name": "\ud83c\udf0d ScanMalware",
+                    "url": "https://scanmalware.com",
+                    "type": "url"
+                },
+                {
                     "name": "\ud83d\udcd2 Shortlink verification",
                     "url": "https://seintpl.github.io/osint/short-links-verification-cheatsheet",
                     "type": "url"
