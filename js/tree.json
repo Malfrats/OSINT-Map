@@ -745,6 +745,11 @@
                     "name": "Videos",
                     "children": [
                         {
+                            "name": "\ud83c\udf0d Arcmira: YouTube Transcript Search",
+                            "url": "https://arcmira.com",
+                            "type": "url"
+                        },
+                        {
                             "name": "\ud83c\udf0d Youtube Subtitles search",
                             "url": "https://filmot.com/",
                             "type": "url"
