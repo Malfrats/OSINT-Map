@@ -66,8 +66,18 @@
                     "name": "Leaked Database",
                     "children": [
                         {
+                            "name": "\ud83c\udf0d Breach House",
+                            "url": "https://breach.house/",
+                            "type": "url"
+                        },
+                        {
                             "name": "\ud83c\udf0d\ud83e\ude99 DeHashed",
                             "url": "https://www.dehashed.com",
+                            "type": "url"
+                        },
+                        {
+                            "name": "\ud83c\udf0d Have I Been Ransomed?",
+                            "url": "https://haveibeenransom.com/",
                             "type": "url"
                         },
                         {
